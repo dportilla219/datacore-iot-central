@@ -1,0 +1,20 @@
+{
+  "@context": "dtmi:dtdl:context;2",
+  "@id": "dtmi:datacoreUnab:acceso;1",
+  "@type": "Interface",
+  "displayName": "DC-Puerta y Acceso",
+  "contents": [
+    {
+      "@type": "Telemetry",
+      "name": "doorOpen",
+      "displayName": "Puerta abierta",
+      "schema": "boolean"
+    },
+    {
+      "@type": "Telemetry",
+      "name": "accessEvent",
+      "displayName": "Evento de acceso",
+      "schema": "string"
+    }
+  ]
+}

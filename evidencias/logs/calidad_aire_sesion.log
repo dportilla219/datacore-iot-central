@@ -1,0 +1,141 @@
+2026-09-24 18:18:56,016 | INFO | Puente Open-Meteo -> IoT Central activo. Consulta cada 600 s (v1.0.0).
+2026-09-24 18:18:56,017 | INFO | Estado de conexion: CONNECTED
+2026-09-24 18:18:57,002 | INFO | TX {'pm25': 15.4, 'pm10': 15.8, 'aqi': 80, 'sourceTimestamp': '2026-09-24T23:00:00Z'} | fuente=2026-09-24T23:00:00Z ingesta=2026-09-24T23:18:56Z
+2026-09-24 18:28:57,967 | INFO | TX {'pm25': 15.4, 'pm10': 15.8, 'aqi': 80, 'sourceTimestamp': '2026-09-24T23:00:00Z'} | fuente=2026-09-24T23:00:00Z ingesta=2026-09-24T23:28:57Z
+2026-09-24 18:38:58,911 | INFO | TX {'pm25': 15.4, 'pm10': 15.8, 'aqi': 80, 'sourceTimestamp': '2026-09-24T23:00:00Z'} | fuente=2026-09-24T23:00:00Z ingesta=2026-09-24T23:38:58Z
+2026-09-24 18:48:59,971 | INFO | TX {'pm25': 15.4, 'pm10': 15.8, 'aqi': 80, 'sourceTimestamp': '2026-09-24T23:00:00Z'} | fuente=2026-09-24T23:00:00Z ingesta=2026-09-24T23:48:59Z
+2026-09-24 18:59:01,009 | INFO | TX {'pm25': 15.4, 'pm10': 15.8, 'aqi': 80, 'sourceTimestamp': '2026-09-24T23:00:00Z'} | fuente=2026-09-24T23:00:00Z ingesta=2026-09-24T23:59:00Z
+2026-09-24 19:09:02,022 | INFO | TX {'pm25': 17.1, 'pm10': 17.5, 'aqi': 72, 'sourceTimestamp': '2026-09-25T00:00:00Z'} | fuente=2026-09-25T00:00:00Z ingesta=2026-09-25T00:09:01Z
+2026-09-24 19:16:56,005 | INFO | Estado de conexion: DISCONNECTED
+2026-09-24 19:16:56,817 | INFO | Estado de conexion: CONNECTED
+2026-09-24 19:19:03,078 | INFO | TX {'pm25': 17.1, 'pm10': 17.5, 'aqi': 72, 'sourceTimestamp': '2026-09-25T00:00:00Z'} | fuente=2026-09-25T00:00:00Z ingesta=2026-09-25T00:19:02Z
+2026-09-24 19:29:04,169 | INFO | TX {'pm25': 17.1, 'pm10': 17.5, 'aqi': 72, 'sourceTimestamp': '2026-09-25T00:00:00Z'} | fuente=2026-09-25T00:00:00Z ingesta=2026-09-25T00:29:03Z
+2026-09-24 19:39:05,217 | INFO | TX {'pm25': 17.1, 'pm10': 17.5, 'aqi': 72, 'sourceTimestamp': '2026-09-25T00:00:00Z'} | fuente=2026-09-25T00:00:00Z ingesta=2026-09-25T00:39:04Z
+2026-09-24 19:49:06,306 | INFO | TX {'pm25': 17.1, 'pm10': 17.5, 'aqi': 72, 'sourceTimestamp': '2026-09-25T00:00:00Z'} | fuente=2026-09-25T00:00:00Z ingesta=2026-09-25T00:49:06Z
+2026-09-24 19:59:07,316 | INFO | TX {'pm25': 17.1, 'pm10': 17.5, 'aqi': 72, 'sourceTimestamp': '2026-09-25T00:00:00Z'} | fuente=2026-09-25T00:00:00Z ingesta=2026-09-25T00:59:07Z
+2026-09-24 20:09:08,360 | INFO | TX {'pm25': 16.2, 'pm10': 16.8, 'aqi': 58, 'sourceTimestamp': '2026-09-25T01:00:00Z'} | fuente=2026-09-25T01:00:00Z ingesta=2026-09-25T01:09:08Z
+2026-09-24 20:14:55,549 | INFO | Estado de conexion: DISCONNECTED
+2026-09-24 20:14:56,287 | INFO | Estado de conexion: CONNECTED
+2026-09-24 20:19:09,399 | INFO | TX {'pm25': 16.2, 'pm10': 16.8, 'aqi': 58, 'sourceTimestamp': '2026-09-25T01:00:00Z'} | fuente=2026-09-25T01:00:00Z ingesta=2026-09-25T01:19:09Z
+2026-09-24 20:29:10,412 | INFO | TX {'pm25': 16.2, 'pm10': 16.8, 'aqi': 58, 'sourceTimestamp': '2026-09-25T01:00:00Z'} | fuente=2026-09-25T01:00:00Z ingesta=2026-09-25T01:29:10Z
+2026-09-24 20:39:11,434 | INFO | TX {'pm25': 16.2, 'pm10': 16.8, 'aqi': 58, 'sourceTimestamp': '2026-09-25T01:00:00Z'} | fuente=2026-09-25T01:00:00Z ingesta=2026-09-25T01:39:11Z
+2026-09-24 20:49:12,552 | INFO | TX {'pm25': 16.2, 'pm10': 16.8, 'aqi': 58, 'sourceTimestamp': '2026-09-25T01:00:00Z'} | fuente=2026-09-25T01:00:00Z ingesta=2026-09-25T01:49:12Z
+2026-09-24 20:59:13,587 | INFO | TX {'pm25': 16.2, 'pm10': 16.8, 'aqi': 58, 'sourceTimestamp': '2026-09-25T01:00:00Z'} | fuente=2026-09-25T01:00:00Z ingesta=2026-09-25T01:59:13Z
+2026-09-24 21:09:14,782 | INFO | TX {'pm25': 15.1, 'pm10': 15.7, 'aqi': 52, 'sourceTimestamp': '2026-09-25T02:00:00Z'} | fuente=2026-09-25T02:00:00Z ingesta=2026-09-25T02:09:14Z
+2026-09-24 21:12:55,289 | INFO | Estado de conexion: DISCONNECTED
+2026-09-24 21:12:56,004 | INFO | Estado de conexion: CONNECTED
+2026-09-24 21:19:15,943 | INFO | TX {'pm25': 15.1, 'pm10': 15.7, 'aqi': 52, 'sourceTimestamp': '2026-09-25T02:00:00Z'} | fuente=2026-09-25T02:00:00Z ingesta=2026-09-25T02:19:15Z
+2026-09-24 21:29:17,042 | INFO | TX {'pm25': 15.1, 'pm10': 15.7, 'aqi': 52, 'sourceTimestamp': '2026-09-25T02:00:00Z'} | fuente=2026-09-25T02:00:00Z ingesta=2026-09-25T02:29:16Z
+2026-09-24 21:39:18,135 | INFO | TX {'pm25': 15.1, 'pm10': 15.7, 'aqi': 52, 'sourceTimestamp': '2026-09-25T02:00:00Z'} | fuente=2026-09-25T02:00:00Z ingesta=2026-09-25T02:39:17Z
+2026-09-24 21:49:19,217 | INFO | TX {'pm25': 15.1, 'pm10': 15.7, 'aqi': 52, 'sourceTimestamp': '2026-09-25T02:00:00Z'} | fuente=2026-09-25T02:00:00Z ingesta=2026-09-25T02:49:19Z
+2026-09-24 21:59:20,359 | INFO | TX {'pm25': 15.1, 'pm10': 15.7, 'aqi': 52, 'sourceTimestamp': '2026-09-25T02:00:00Z'} | fuente=2026-09-25T02:00:00Z ingesta=2026-09-25T02:59:20Z
+2026-09-24 22:09:21,675 | INFO | TX {'pm25': 13.8, 'pm10': 14.2, 'aqi': 52, 'sourceTimestamp': '2026-09-25T03:00:00Z'} | fuente=2026-09-25T03:00:00Z ingesta=2026-09-25T03:09:21Z
+2026-09-24 22:10:55,813 | INFO | Estado de conexion: DISCONNECTED
+2026-09-24 22:10:56,607 | INFO | Estado de conexion: CONNECTED
+2026-09-24 22:19:22,843 | INFO | TX {'pm25': 13.8, 'pm10': 14.2, 'aqi': 52, 'sourceTimestamp': '2026-09-25T03:00:00Z'} | fuente=2026-09-25T03:00:00Z ingesta=2026-09-25T03:19:22Z
+2026-09-25 19:39:20,167 | INFO | Puente Open-Meteo -> IoT Central activo. Consulta cada 600 s (v1.0.0).
+2026-09-25 19:39:20,169 | INFO | Estado de conexion: CONNECTED
+2026-09-25 19:39:21,103 | INFO | TX {'pm25': 29.3, 'pm10': 31.4, 'aqi': 69, 'sourceTimestamp': '2026-09-26T00:00:00Z'} | fuente=2026-09-26T00:00:00Z ingesta=2026-09-26T00:39:20Z
+2026-09-25 19:55:27,372 | INFO | Puente Open-Meteo -> IoT Central activo. Consulta cada 600 s (v1.0.0).
+2026-09-25 19:55:27,373 | INFO | Estado de conexion: CONNECTED
+2026-09-25 19:55:28,366 | INFO | TX {'pm25': 29.3, 'pm10': 31.4, 'aqi': 69, 'sourceTimestamp': '2026-09-26T00:00:00Z'} | fuente=2026-09-26T00:00:00Z ingesta=2026-09-26T00:55:28Z
+2026-09-25 20:05:29,269 | INFO | TX {'pm25': 26.6, 'pm10': 28.5, 'aqi': 69, 'sourceTimestamp': '2026-09-26T01:00:00Z'} | fuente=2026-09-26T01:00:00Z ingesta=2026-09-26T01:05:29Z
+2026-09-25 20:15:30,220 | INFO | TX {'pm25': 26.6, 'pm10': 28.5, 'aqi': 69, 'sourceTimestamp': '2026-09-26T01:00:00Z'} | fuente=2026-09-26T01:00:00Z ingesta=2026-09-26T01:15:29Z
+2026-09-25 20:25:31,298 | INFO | TX {'pm25': 26.6, 'pm10': 28.5, 'aqi': 69, 'sourceTimestamp': '2026-09-26T01:00:00Z'} | fuente=2026-09-26T01:00:00Z ingesta=2026-09-26T01:25:31Z
+2026-09-25 20:35:32,208 | INFO | TX {'pm25': 26.6, 'pm10': 28.5, 'aqi': 69, 'sourceTimestamp': '2026-09-26T01:00:00Z'} | fuente=2026-09-26T01:00:00Z ingesta=2026-09-26T01:35:32Z
+2026-09-25 20:45:33,183 | INFO | TX {'pm25': 26.6, 'pm10': 28.5, 'aqi': 69, 'sourceTimestamp': '2026-09-26T01:00:00Z'} | fuente=2026-09-26T01:00:00Z ingesta=2026-09-26T01:45:32Z
+2026-09-25 20:53:26,078 | INFO | Estado de conexion: DISCONNECTED
+2026-09-25 20:53:26,517 | INFO | Estado de conexion: CONNECTED
+2026-09-25 20:55:34,185 | INFO | TX {'pm25': 26.6, 'pm10': 28.5, 'aqi': 69, 'sourceTimestamp': '2026-09-26T01:00:00Z'} | fuente=2026-09-26T01:00:00Z ingesta=2026-09-26T01:55:33Z
+2026-09-25 21:05:35,187 | INFO | TX {'pm25': 26.8, 'pm10': 28.5, 'aqi': 70, 'sourceTimestamp': '2026-09-26T02:00:00Z'} | fuente=2026-09-26T02:00:00Z ingesta=2026-09-26T02:05:34Z
+2026-09-25 21:15:36,267 | INFO | TX {'pm25': 26.8, 'pm10': 28.5, 'aqi': 70, 'sourceTimestamp': '2026-09-26T02:00:00Z'} | fuente=2026-09-26T02:00:00Z ingesta=2026-09-26T02:15:36Z
+2026-09-25 21:28:35,385 | WARNING | Exception caught in background thread.  Unable to handle.
+2026-09-25 21:28:35,385 | WARNING | ['azure.iot.device.common.transport_exceptions.ConnectionDroppedError: Unexpected disconnection\n']
+2026-09-25 21:28:35,385 | INFO | Estado de conexion: DISCONNECTED
+2026-09-25 21:28:35,854 | INFO | Estado de conexion: CONNECTED
+2026-09-25 21:30:46,684 | INFO | Puente Open-Meteo -> IoT Central activo. Consulta cada 600 s (v1.0.0).
+2026-09-25 21:30:46,684 | INFO | Estado de conexion: CONNECTED
+2026-09-25 21:30:47,568 | INFO | TX {'pm25': 26.8, 'pm10': 28.5, 'aqi': 70, 'sourceTimestamp': '2026-09-26T02:00:00Z'} | fuente=2026-09-26T02:00:00Z ingesta=2026-09-26T02:30:47Z
+2026-09-25 21:40:48,600 | INFO | TX {'pm25': 26.8, 'pm10': 28.5, 'aqi': 70, 'sourceTimestamp': '2026-09-26T02:00:00Z'} | fuente=2026-09-26T02:00:00Z ingesta=2026-09-26T02:40:48Z
+2026-09-25 21:50:49,615 | INFO | TX {'pm25': 26.8, 'pm10': 28.5, 'aqi': 70, 'sourceTimestamp': '2026-09-26T02:00:00Z'} | fuente=2026-09-26T02:00:00Z ingesta=2026-09-26T02:50:49Z
+2026-09-25 22:00:50,815 | INFO | TX {'pm25': 26.5, 'pm10': 28.3, 'aqi': 71, 'sourceTimestamp': '2026-09-26T03:00:00Z'} | fuente=2026-09-26T03:00:00Z ingesta=2026-09-26T03:00:50Z
+2026-09-25 22:10:51,882 | INFO | TX {'pm25': 26.5, 'pm10': 28.3, 'aqi': 71, 'sourceTimestamp': '2026-09-26T03:00:00Z'} | fuente=2026-09-26T03:00:00Z ingesta=2026-09-26T03:10:51Z
+2026-09-25 22:20:53,002 | INFO | TX {'pm25': 26.5, 'pm10': 28.3, 'aqi': 71, 'sourceTimestamp': '2026-09-26T03:00:00Z'} | fuente=2026-09-26T03:00:00Z ingesta=2026-09-26T03:20:52Z
+2026-09-25 22:28:46,575 | INFO | Estado de conexion: DISCONNECTED
+2026-09-25 22:28:47,052 | INFO | Estado de conexion: CONNECTED
+2026-09-25 22:30:54,093 | INFO | TX {'pm25': 26.5, 'pm10': 28.3, 'aqi': 71, 'sourceTimestamp': '2026-09-26T03:00:00Z'} | fuente=2026-09-26T03:00:00Z ingesta=2026-09-26T03:30:53Z
+2026-09-25 22:40:55,244 | INFO | TX {'pm25': 26.5, 'pm10': 28.3, 'aqi': 71, 'sourceTimestamp': '2026-09-26T03:00:00Z'} | fuente=2026-09-26T03:00:00Z ingesta=2026-09-26T03:40:55Z
+2026-09-25 22:50:56,379 | INFO | TX {'pm25': 26.5, 'pm10': 28.3, 'aqi': 71, 'sourceTimestamp': '2026-09-26T03:00:00Z'} | fuente=2026-09-26T03:00:00Z ingesta=2026-09-26T03:50:56Z
+2026-09-25 23:00:57,526 | INFO | TX {'pm25': 24.0, 'pm10': 25.6, 'aqi': 71, 'sourceTimestamp': '2026-09-26T04:00:00Z'} | fuente=2026-09-26T04:00:00Z ingesta=2026-09-26T04:00:57Z
+2026-09-25 23:10:58,666 | INFO | TX {'pm25': 24.0, 'pm10': 25.6, 'aqi': 71, 'sourceTimestamp': '2026-09-26T04:00:00Z'} | fuente=2026-09-26T04:00:00Z ingesta=2026-09-26T04:10:58Z
+2026-09-25 23:20:59,839 | INFO | TX {'pm25': 24.0, 'pm10': 25.6, 'aqi': 71, 'sourceTimestamp': '2026-09-26T04:00:00Z'} | fuente=2026-09-26T04:00:00Z ingesta=2026-09-26T04:20:59Z
+2026-09-25 23:26:46,396 | INFO | Estado de conexion: DISCONNECTED
+2026-09-25 23:26:46,876 | INFO | Estado de conexion: CONNECTED
+2026-09-25 23:31:00,970 | INFO | TX {'pm25': 24.0, 'pm10': 25.6, 'aqi': 71, 'sourceTimestamp': '2026-09-26T04:00:00Z'} | fuente=2026-09-26T04:00:00Z ingesta=2026-09-26T04:31:00Z
+2026-09-25 23:41:02,232 | INFO | TX {'pm25': 24.0, 'pm10': 25.6, 'aqi': 71, 'sourceTimestamp': '2026-09-26T04:00:00Z'} | fuente=2026-09-26T04:00:00Z ingesta=2026-09-26T04:41:02Z
+2026-09-25 23:51:03,364 | INFO | TX {'pm25': 24.0, 'pm10': 25.6, 'aqi': 71, 'sourceTimestamp': '2026-09-26T04:00:00Z'} | fuente=2026-09-26T04:00:00Z ingesta=2026-09-26T04:51:03Z
+2026-09-26 14:06:42,874 | INFO | Puente Open-Meteo -> IoT Central activo. Consulta cada 600 s (v1.0.0).
+2026-09-26 14:06:42,875 | INFO | Estado de conexion: CONNECTED
+2026-09-26 14:06:43,877 | INFO | TX {'pm25': 8.3, 'pm10': 8.4, 'aqi': 69, 'sourceTimestamp': '2026-09-26T19:00:00Z'} | fuente=2026-09-26T19:00:00Z ingesta=2026-09-26T19:06:43Z
+2026-09-26 14:16:44,888 | INFO | TX {'pm25': 8.3, 'pm10': 8.4, 'aqi': 69, 'sourceTimestamp': '2026-09-26T19:00:00Z'} | fuente=2026-09-26T19:00:00Z ingesta=2026-09-26T19:16:44Z
+2026-09-26 14:26:45,858 | INFO | TX {'pm25': 8.3, 'pm10': 8.4, 'aqi': 69, 'sourceTimestamp': '2026-09-26T19:00:00Z'} | fuente=2026-09-26T19:00:00Z ingesta=2026-09-26T19:26:45Z
+2026-09-26 14:36:46,969 | INFO | TX {'pm25': 8.3, 'pm10': 8.4, 'aqi': 69, 'sourceTimestamp': '2026-09-26T19:00:00Z'} | fuente=2026-09-26T19:00:00Z ingesta=2026-09-26T19:36:46Z
+2026-09-26 14:46:48,036 | INFO | TX {'pm25': 8.3, 'pm10': 8.4, 'aqi': 69, 'sourceTimestamp': '2026-09-26T19:00:00Z'} | fuente=2026-09-26T19:00:00Z ingesta=2026-09-26T19:46:47Z
+2026-09-26 14:56:49,127 | INFO | TX {'pm25': 8.3, 'pm10': 8.4, 'aqi': 69, 'sourceTimestamp': '2026-09-26T19:00:00Z'} | fuente=2026-09-26T19:00:00Z ingesta=2026-09-26T19:56:48Z
+2026-09-26 15:04:42,949 | INFO | Estado de conexion: DISCONNECTED
+2026-09-26 15:04:43,377 | INFO | Estado de conexion: CONNECTED
+2026-09-26 15:06:50,227 | INFO | TX {'pm25': 10.4, 'pm10': 10.5, 'aqi': 68, 'sourceTimestamp': '2026-09-26T20:00:00Z'} | fuente=2026-09-26T20:00:00Z ingesta=2026-09-26T20:06:50Z
+2026-09-26 15:16:51,352 | INFO | TX {'pm25': 10.4, 'pm10': 10.5, 'aqi': 68, 'sourceTimestamp': '2026-09-26T20:00:00Z'} | fuente=2026-09-26T20:00:00Z ingesta=2026-09-26T20:16:51Z
+2026-09-26 15:26:52,459 | INFO | TX {'pm25': 10.4, 'pm10': 10.5, 'aqi': 68, 'sourceTimestamp': '2026-09-26T20:00:00Z'} | fuente=2026-09-26T20:00:00Z ingesta=2026-09-26T20:26:52Z
+2026-09-26 15:36:53,529 | INFO | TX {'pm25': 10.4, 'pm10': 10.5, 'aqi': 68, 'sourceTimestamp': '2026-09-26T20:00:00Z'} | fuente=2026-09-26T20:00:00Z ingesta=2026-09-26T20:36:53Z
+2026-09-26 15:46:54,583 | INFO | TX {'pm25': 10.4, 'pm10': 10.5, 'aqi': 68, 'sourceTimestamp': '2026-09-26T20:00:00Z'} | fuente=2026-09-26T20:00:00Z ingesta=2026-09-26T20:46:54Z
+2026-09-26 15:56:55,701 | INFO | TX {'pm25': 10.4, 'pm10': 10.5, 'aqi': 68, 'sourceTimestamp': '2026-09-26T20:00:00Z'} | fuente=2026-09-26T20:00:00Z ingesta=2026-09-26T20:56:55Z
+2026-09-26 16:02:42,401 | INFO | Estado de conexion: DISCONNECTED
+2026-09-26 16:02:42,817 | INFO | Estado de conexion: CONNECTED
+2026-09-26 16:06:56,816 | INFO | TX {'pm25': 10.5, 'pm10': 10.6, 'aqi': 67, 'sourceTimestamp': '2026-09-26T21:00:00Z'} | fuente=2026-09-26T21:00:00Z ingesta=2026-09-26T21:06:56Z
+2026-09-26 16:16:57,895 | INFO | TX {'pm25': 10.5, 'pm10': 10.6, 'aqi': 67, 'sourceTimestamp': '2026-09-26T21:00:00Z'} | fuente=2026-09-26T21:00:00Z ingesta=2026-09-26T21:16:57Z
+2026-09-26 16:26:58,983 | INFO | TX {'pm25': 10.5, 'pm10': 10.6, 'aqi': 67, 'sourceTimestamp': '2026-09-26T21:00:00Z'} | fuente=2026-09-26T21:00:00Z ingesta=2026-09-26T21:26:58Z
+2026-09-26 16:37:00,176 | INFO | TX {'pm25': 10.5, 'pm10': 10.6, 'aqi': 67, 'sourceTimestamp': '2026-09-26T21:00:00Z'} | fuente=2026-09-26T21:00:00Z ingesta=2026-09-26T21:36:59Z
+2026-09-26 16:47:01,292 | INFO | TX {'pm25': 10.5, 'pm10': 10.6, 'aqi': 67, 'sourceTimestamp': '2026-09-26T21:00:00Z'} | fuente=2026-09-26T21:00:00Z ingesta=2026-09-26T21:47:01Z
+2026-09-26 16:57:02,432 | INFO | TX {'pm25': 10.5, 'pm10': 10.6, 'aqi': 67, 'sourceTimestamp': '2026-09-26T21:00:00Z'} | fuente=2026-09-26T21:00:00Z ingesta=2026-09-26T21:57:02Z
+2026-09-26 17:00:42,009 | INFO | Estado de conexion: DISCONNECTED
+2026-09-26 17:00:42,442 | INFO | Estado de conexion: CONNECTED
+2026-09-26 17:07:03,562 | INFO | TX {'pm25': 9.7, 'pm10': 9.7, 'aqi': 66, 'sourceTimestamp': '2026-09-26T22:00:00Z'} | fuente=2026-09-26T22:00:00Z ingesta=2026-09-26T22:07:03Z
+2026-09-26 17:17:04,703 | INFO | TX {'pm25': 8.6, 'pm10': 8.8, 'aqi': 64, 'sourceTimestamp': '2026-09-26T22:00:00Z'} | fuente=2026-09-26T22:00:00Z ingesta=2026-09-26T22:17:04Z
+2026-09-26 17:27:05,810 | INFO | TX {'pm25': 8.6, 'pm10': 8.8, 'aqi': 64, 'sourceTimestamp': '2026-09-26T22:00:00Z'} | fuente=2026-09-26T22:00:00Z ingesta=2026-09-26T22:27:05Z
+2026-09-26 17:37:06,901 | INFO | TX {'pm25': 8.6, 'pm10': 8.8, 'aqi': 64, 'sourceTimestamp': '2026-09-26T22:00:00Z'} | fuente=2026-09-26T22:00:00Z ingesta=2026-09-26T22:37:06Z
+2026-09-26 17:47:08,086 | INFO | TX {'pm25': 8.6, 'pm10': 8.8, 'aqi': 64, 'sourceTimestamp': '2026-09-26T22:00:00Z'} | fuente=2026-09-26T22:00:00Z ingesta=2026-09-26T22:47:07Z
+2026-09-26 17:57:09,160 | INFO | TX {'pm25': 8.6, 'pm10': 8.8, 'aqi': 64, 'sourceTimestamp': '2026-09-26T22:00:00Z'} | fuente=2026-09-26T22:00:00Z ingesta=2026-09-26T22:57:08Z
+2026-09-26 17:58:42,506 | INFO | Estado de conexion: DISCONNECTED
+2026-09-26 17:58:42,976 | INFO | Estado de conexion: CONNECTED
+2026-09-27 14:11:26,542 | INFO | Puente Open-Meteo -> IoT Central activo. Consulta cada 600 s (v1.0.0).
+2026-09-27 14:11:26,543 | INFO | Estado de conexion: CONNECTED
+2026-09-27 14:11:27,424 | INFO | TX {'pm25': 6.7, 'pm10': 6.8, 'aqi': 44, 'sourceTimestamp': '2026-09-27T19:00:00Z'} | fuente=2026-09-27T19:00:00Z ingesta=2026-09-27T19:11:27Z
+2026-09-27 14:21:28,349 | INFO | TX {'pm25': 6.7, 'pm10': 6.8, 'aqi': 44, 'sourceTimestamp': '2026-09-27T19:00:00Z'} | fuente=2026-09-27T19:00:00Z ingesta=2026-09-27T19:21:28Z
+2026-09-27 14:31:29,372 | INFO | TX {'pm25': 6.7, 'pm10': 6.8, 'aqi': 44, 'sourceTimestamp': '2026-09-27T19:00:00Z'} | fuente=2026-09-27T19:00:00Z ingesta=2026-09-27T19:31:29Z
+2026-09-27 14:41:30,291 | INFO | TX {'pm25': 6.7, 'pm10': 6.8, 'aqi': 44, 'sourceTimestamp': '2026-09-27T19:00:00Z'} | fuente=2026-09-27T19:00:00Z ingesta=2026-09-27T19:41:30Z
+2026-09-27 14:51:31,246 | INFO | TX {'pm25': 6.7, 'pm10': 6.8, 'aqi': 44, 'sourceTimestamp': '2026-09-27T19:00:00Z'} | fuente=2026-09-27T19:00:00Z ingesta=2026-09-27T19:51:31Z
+2026-09-27 15:01:32,232 | INFO | TX {'pm25': 7.7, 'pm10': 7.8, 'aqi': 44, 'sourceTimestamp': '2026-09-27T20:00:00Z'} | fuente=2026-09-27T20:00:00Z ingesta=2026-09-27T20:01:32Z
+2026-09-27 15:09:26,624 | INFO | Estado de conexion: DISCONNECTED
+2026-09-27 15:09:27,084 | INFO | Estado de conexion: CONNECTED
+2026-09-27 15:11:34,175 | INFO | TX {'pm25': 7.7, 'pm10': 7.8, 'aqi': 44, 'sourceTimestamp': '2026-09-27T20:00:00Z'} | fuente=2026-09-27T20:00:00Z ingesta=2026-09-27T20:11:33Z
+2026-09-27 15:21:35,203 | INFO | TX {'pm25': 7.7, 'pm10': 7.8, 'aqi': 44, 'sourceTimestamp': '2026-09-27T20:00:00Z'} | fuente=2026-09-27T20:00:00Z ingesta=2026-09-27T20:21:34Z
+2026-09-27 15:31:36,316 | INFO | TX {'pm25': 7.7, 'pm10': 7.8, 'aqi': 44, 'sourceTimestamp': '2026-09-27T20:00:00Z'} | fuente=2026-09-27T20:00:00Z ingesta=2026-09-27T20:31:36Z
+2026-09-27 15:41:37,345 | INFO | TX {'pm25': 7.7, 'pm10': 7.8, 'aqi': 44, 'sourceTimestamp': '2026-09-27T20:00:00Z'} | fuente=2026-09-27T20:00:00Z ingesta=2026-09-27T20:41:37Z
+2026-09-27 15:51:38,553 | INFO | TX {'pm25': 7.7, 'pm10': 7.8, 'aqi': 44, 'sourceTimestamp': '2026-09-27T20:00:00Z'} | fuente=2026-09-27T20:00:00Z ingesta=2026-09-27T20:51:38Z
+2026-09-27 16:01:39,746 | INFO | TX {'pm25': 6.7, 'pm10': 6.8, 'aqi': 44, 'sourceTimestamp': '2026-09-27T21:00:00Z'} | fuente=2026-09-27T21:00:00Z ingesta=2026-09-27T21:01:39Z
+2026-09-27 16:07:26,740 | INFO | Estado de conexion: DISCONNECTED
+2026-09-27 16:07:27,218 | INFO | Estado de conexion: CONNECTED
+2026-09-27 16:11:40,881 | INFO | TX {'pm25': 6.7, 'pm10': 6.8, 'aqi': 44, 'sourceTimestamp': '2026-09-27T21:00:00Z'} | fuente=2026-09-27T21:00:00Z ingesta=2026-09-27T21:11:40Z
+2026-09-27 16:21:42,029 | INFO | TX {'pm25': 6.7, 'pm10': 6.8, 'aqi': 44, 'sourceTimestamp': '2026-09-27T21:00:00Z'} | fuente=2026-09-27T21:00:00Z ingesta=2026-09-27T21:21:41Z
+2026-09-27 16:31:43,167 | INFO | TX {'pm25': 6.7, 'pm10': 6.8, 'aqi': 44, 'sourceTimestamp': '2026-09-27T21:00:00Z'} | fuente=2026-09-27T21:00:00Z ingesta=2026-09-27T21:31:42Z
+2026-09-27 16:41:44,287 | INFO | TX {'pm25': 6.7, 'pm10': 6.8, 'aqi': 44, 'sourceTimestamp': '2026-09-27T21:00:00Z'} | fuente=2026-09-27T21:00:00Z ingesta=2026-09-27T21:41:44Z
+2026-09-27 16:51:45,413 | INFO | TX {'pm25': 6.7, 'pm10': 6.8, 'aqi': 44, 'sourceTimestamp': '2026-09-27T21:00:00Z'} | fuente=2026-09-27T21:00:00Z ingesta=2026-09-27T21:51:45Z
+2026-09-27 17:01:46,554 | INFO | TX {'pm25': 7.6, 'pm10': 7.7, 'aqi': 44, 'sourceTimestamp': '2026-09-27T22:00:00Z'} | fuente=2026-09-27T22:00:00Z ingesta=2026-09-27T22:01:46Z
+2026-09-27 17:05:26,434 | INFO | Estado de conexion: DISCONNECTED
+2026-09-27 17:05:26,845 | INFO | Estado de conexion: CONNECTED
+2026-09-27 17:11:47,641 | INFO | TX {'pm25': 7.6, 'pm10': 7.7, 'aqi': 44, 'sourceTimestamp': '2026-09-27T22:00:00Z'} | fuente=2026-09-27T22:00:00Z ingesta=2026-09-27T22:11:47Z
+2026-09-27 17:21:48,728 | INFO | TX {'pm25': 7.6, 'pm10': 7.7, 'aqi': 44, 'sourceTimestamp': '2026-09-27T22:00:00Z'} | fuente=2026-09-27T22:00:00Z ingesta=2026-09-27T22:21:48Z
+2026-09-27 17:31:49,782 | INFO | TX {'pm25': 7.6, 'pm10': 7.7, 'aqi': 44, 'sourceTimestamp': '2026-09-27T22:00:00Z'} | fuente=2026-09-27T22:00:00Z ingesta=2026-09-27T22:31:49Z
+2026-09-27 17:41:50,852 | INFO | TX {'pm25': 7.6, 'pm10': 7.7, 'aqi': 44, 'sourceTimestamp': '2026-09-27T22:00:00Z'} | fuente=2026-09-27T22:00:00Z ingesta=2026-09-27T22:41:50Z
+2026-09-27 17:51:52,017 | INFO | TX {'pm25': 12.3, 'pm10': 12.4, 'aqi': 51, 'sourceTimestamp': '2026-09-27T22:00:00Z'} | fuente=2026-09-27T22:00:00Z ingesta=2026-09-27T22:51:51Z

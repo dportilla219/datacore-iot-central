@@ -1,0 +1,56 @@
+{
+  "@context": "dtmi:dtdl:context;2",
+  "@id": "dtmi:datacoreUnab:climaExterior;1",
+  "@type": "Interface",
+  "displayName": "DC-Clima Exterior",
+  "contents": [
+    {
+      "@type": [
+        "Telemetry",
+        "Temperature"
+      ],
+      "name": "tempOutside",
+      "displayName": "Temperatura exterior (°C)",
+      "schema": "double",
+      "unit": "degreeCelsius"
+    },
+    {
+      "@type": [
+        "Telemetry",
+        "RelativeHumidity"
+      ],
+      "name": "humidity",
+      "displayName": "Humedad relativa (%)",
+      "schema": "double",
+      "unit": "percent"
+    },
+    {
+      "@type": [
+        "Telemetry",
+        "Velocity"
+      ],
+      "name": "windSpeed",
+      "displayName": "Velocidad del viento (km/h)",
+      "schema": "double",
+      "unit": "kilometrePerHour"
+    },
+    {
+      "@type": "Telemetry",
+      "name": "rain1h",
+      "displayName": "Lluvia última hora (mm)",
+      "schema": "double"
+    },
+    {
+      "@type": "Telemetry",
+      "name": "cloudCover",
+      "displayName": "Nubosidad (%)",
+      "schema": "double"
+    },
+    {
+      "@type": "Telemetry",
+      "name": "sourceTimestamp",
+      "displayName": "Marca de tiempo de la fuente",
+      "schema": "dateTime"
+    }
+  ]
+}

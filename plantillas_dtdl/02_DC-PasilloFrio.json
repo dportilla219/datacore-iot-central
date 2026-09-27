@@ -1,0 +1,38 @@
+{
+  "@context": "dtmi:dtdl:context;2",
+  "@id": "dtmi:datacoreUnab:pasilloFrio;1",
+  "@type": "Interface",
+  "displayName": "DC-Pasillo Frio",
+  "contents": [
+    {
+      "@type": [
+        "Telemetry",
+        "Temperature"
+      ],
+      "name": "temperature",
+      "displayName": "Temperatura (°C)",
+      "schema": "double",
+      "unit": "degreeCelsius"
+    },
+    {
+      "@type": [
+        "Telemetry",
+        "Pressure"
+      ],
+      "name": "diffPressure",
+      "displayName": "Presion diferencial (Pa)",
+      "schema": "double",
+      "unit": "pascal"
+    },
+    {
+      "@type": [
+        "Telemetry",
+        "RelativeHumidity"
+      ],
+      "name": "humidity",
+      "displayName": "Humedad relativa (%)",
+      "schema": "double",
+      "unit": "percent"
+    }
+  ]
+}

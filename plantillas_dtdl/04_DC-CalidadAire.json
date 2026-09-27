@@ -1,0 +1,32 @@
+{
+  "@context": "dtmi:dtdl:context;2",
+  "@id": "dtmi:datacoreUnab:calidadAire;1",
+  "@type": "Interface",
+  "displayName": "DC-Calidad de Aire",
+  "contents": [
+    {
+      "@type": "Telemetry",
+      "name": "pm25",
+      "displayName": "PM2.5 (µg/m³)",
+      "schema": "double"
+    },
+    {
+      "@type": "Telemetry",
+      "name": "pm10",
+      "displayName": "PM10 (µg/m³)",
+      "schema": "double"
+    },
+    {
+      "@type": "Telemetry",
+      "name": "aqi",
+      "displayName": "AQI (índice)",
+      "schema": "double"
+    },
+    {
+      "@type": "Telemetry",
+      "name": "sourceTimestamp",
+      "displayName": "Marca de tiempo de la fuente",
+      "schema": "dateTime"
+    }
+  ]
+}

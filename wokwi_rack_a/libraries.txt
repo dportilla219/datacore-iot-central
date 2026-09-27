@@ -1,0 +1,6 @@
+PubSubClient
+ArduinoJson
+OneWire
+DallasTemperature
+DHT sensor library
+Adafruit Unified Sensor

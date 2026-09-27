@@ -1,0 +1,18 @@
+{
+  "name": "datacore-pdu-puente-http",
+  "version": "1.0.0",
+  "description": "DataCore UNAB - Dev 09: puente HTTP/REST de la PDU hacia IoT Central",
+  "private": true,
+  "scripts": {
+    "pdu": "node pdu_simulada.js",
+    "puente": "node puente_http.js"
+  },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "azure-iot-device": "^1.18.3",
+    "azure-iot-device-http": "^1.14.3",
+    "azure-iot-provisioning-device": "^1.9.1",
+    "azure-iot-provisioning-device-http": "^1.9.1",
+    "azure-iot-security-symmetric-key": "^1.8.2"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "@context": "dtmi:dtdl:context;2",
+  "@id": "dtmi:datacoreUnab:humo;1",
+  "@type": "Interface",
+  "displayName": "DC-Humo e Incendio",
+  "contents": [
+    {
+      "@type": "Telemetry",
+      "name": "smoke",
+      "displayName": "Oscurecimiento por humo (%/ft)",
+      "schema": "double"
+    },
+    {
+      "@type": [
+        "Telemetry",
+        "Temperature"
+      ],
+      "name": "ceilingTemp",
+      "displayName": "Temperatura de techo (°C)",
+      "schema": "double",
+      "unit": "degreeCelsius"
+    }
+  ]
+}

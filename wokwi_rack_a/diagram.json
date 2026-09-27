@@ -1,0 +1,209 @@
+{
+  "version": 1,
+  "author": "DataCore UNAB",
+  "editor": "wokwi",
+  "parts": [
+    {
+      "type": "board-esp32-devkit-c-v4",
+      "id": "esp",
+      "top": 0,
+      "left": 0,
+      "attrs": {}
+    },
+    {
+      "type": "board-ds18b20",
+      "id": "tIntake",
+      "top": -120,
+      "left": -140,
+      "attrs": {
+        "temperature": "22"
+      }
+    },
+    {
+      "type": "board-ds18b20",
+      "id": "tExhaust",
+      "top": -120,
+      "left": -60,
+      "attrs": {
+        "temperature": "34"
+      }
+    },
+    {
+      "type": "wokwi-dht22",
+      "id": "dht",
+      "top": -140,
+      "left": 170,
+      "attrs": {
+        "humidity": "45",
+        "temperature": "24"
+      }
+    },
+    {
+      "type": "wokwi-led",
+      "id": "ledFan",
+      "top": 40,
+      "left": 230,
+      "attrs": {
+        "color": "blue",
+        "label": "Ventilador"
+      }
+    },
+    {
+      "type": "wokwi-led",
+      "id": "ledAlarm",
+      "top": 40,
+      "left": 290,
+      "attrs": {
+        "color": "red",
+        "label": "Alarma"
+      }
+    },
+    {
+      "type": "wokwi-resistor",
+      "id": "r1",
+      "top": 130,
+      "left": 200,
+      "rotate": 90,
+      "attrs": {
+        "value": "220"
+      }
+    },
+    {
+      "type": "wokwi-resistor",
+      "id": "r2",
+      "top": 130,
+      "left": 260,
+      "rotate": 90,
+      "attrs": {
+        "value": "220"
+      }
+    },
+    {
+      "type": "wokwi-pushbutton",
+      "id": "btn",
+      "top": 230,
+      "left": 210,
+      "attrs": {
+        "color": "yellow",
+        "label": "Caida de red"
+      }
+    }
+  ],
+  "connections": [
+    [
+      "esp:TX",
+      "$serialMonitor:RX",
+      "",
+      []
+    ],
+    [
+      "esp:RX",
+      "$serialMonitor:TX",
+      "",
+      []
+    ],
+    [
+      "tIntake:VCC",
+      "esp:3V3",
+      "red",
+      []
+    ],
+    [
+      "tIntake:GND",
+      "esp:GND.1",
+      "black",
+      []
+    ],
+    [
+      "tIntake:DQ",
+      "esp:4",
+      "green",
+      []
+    ],
+    [
+      "tExhaust:VCC",
+      "esp:3V3",
+      "red",
+      []
+    ],
+    [
+      "tExhaust:GND",
+      "esp:GND.1",
+      "black",
+      []
+    ],
+    [
+      "tExhaust:DQ",
+      "esp:5",
+      "orange",
+      []
+    ],
+    [
+      "dht:VCC",
+      "esp:3V3",
+      "red",
+      []
+    ],
+    [
+      "dht:GND",
+      "esp:GND.2",
+      "black",
+      []
+    ],
+    [
+      "dht:SDA",
+      "esp:15",
+      "purple",
+      []
+    ],
+    [
+      "esp:26",
+      "r1:1",
+      "blue",
+      []
+    ],
+    [
+      "r1:2",
+      "ledFan:A",
+      "blue",
+      []
+    ],
+    [
+      "ledFan:C",
+      "esp:GND.2",
+      "black",
+      []
+    ],
+    [
+      "esp:27",
+      "r2:1",
+      "red",
+      []
+    ],
+    [
+      "r2:2",
+      "ledAlarm:A",
+      "red",
+      []
+    ],
+    [
+      "ledAlarm:C",
+      "esp:GND.2",
+      "black",
+      []
+    ],
+    [
+      "btn:1.l",
+      "esp:14",
+      "yellow",
+      []
+    ],
+    [
+      "btn:2.l",
+      "esp:GND.2",
+      "black",
+      []
+    ]
+  ],
+  "dependencies": {}
+}

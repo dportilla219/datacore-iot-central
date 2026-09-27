@@ -1,0 +1,34 @@
+{
+  "@context": "dtmi:dtdl:context;2",
+  "@id": "dtmi:datacoreUnab:pdu;1",
+  "@type": "Interface",
+  "displayName": "DC-PDU Energia",
+  "contents": [
+    {
+      "@type": [
+        "Telemetry",
+        "Power"
+      ],
+      "name": "power",
+      "displayName": "Potencia (kW)",
+      "schema": "double",
+      "unit": "kilowatt"
+    },
+    {
+      "@type": [
+        "Telemetry",
+        "Current"
+      ],
+      "name": "current",
+      "displayName": "Corriente (A)",
+      "schema": "double",
+      "unit": "ampere"
+    },
+    {
+      "@type": "Telemetry",
+      "name": "powerFactor",
+      "displayName": "Factor de potencia",
+      "schema": "double"
+    }
+  ]
+}

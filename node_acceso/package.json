@@ -1,0 +1,17 @@
+{
+  "name": "datacore-acceso-pnp",
+  "version": "1.0.0",
+  "description": "DataCore UNAB - Dev 10: control de acceso como dispositivo IoT Plug and Play",
+  "private": true,
+  "scripts": {
+    "start": "node acceso_pnp.js"
+  },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "azure-iot-device": "^1.18.3",
+    "azure-iot-device-mqtt": "^1.16.3",
+    "azure-iot-provisioning-device": "^1.9.1",
+    "azure-iot-provisioning-device-mqtt": "^1.8.1",
+    "azure-iot-security-symmetric-key": "^1.8.2"
+  }
+}

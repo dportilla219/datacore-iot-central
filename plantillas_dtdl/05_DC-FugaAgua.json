@@ -1,0 +1,24 @@
+{
+  "@context": "dtmi:dtdl:context;2",
+  "@id": "dtmi:datacoreUnab:fugaAgua;1",
+  "@type": "Interface",
+  "displayName": "DC-Fuga de Agua",
+  "contents": [
+    {
+      "@type": "Telemetry",
+      "name": "leakDetected",
+      "displayName": "Fuga detectada",
+      "schema": "boolean"
+    },
+    {
+      "@type": [
+        "Telemetry",
+        "RelativeHumidity"
+      ],
+      "name": "floorHumidity",
+      "displayName": "Humedad de piso (%)",
+      "schema": "double",
+      "unit": "percent"
+    }
+  ]
+}

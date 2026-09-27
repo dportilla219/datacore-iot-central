@@ -1,0 +1,17 @@
+# Credenciales: nunca al repositorio
+secrets.h
+iniciar.ps1
+.env
+*.key
+
+# Dependencias y artefactos
+node_modules/
+__pycache__/
+*.pyc
+.pio/
+build/
+
+# Logs de sesiones nuevas (las evidencias de la captura estan en evidencias/logs)
+*_sesion.log
+!evidencias/logs/*.log
+captura_actual.txt

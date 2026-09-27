@@ -1,0 +1,18 @@
+{
+  "@context": "dtmi:dtdl:context;2",
+  "@id": "dtmi:datacoreUnab:rack;1",
+  "@type": "Interface",
+  "displayName": "DC-Rack",
+  "description": "Plantilla compartida por los tres racks: Rack A (Wokwi), Rack B (Python) y Rack C (simulado por IoT Central). Recreacion en DTDL de la plantilla creada en la interfaz de IoT Central.",
+  "contents": [
+    { "@type": ["Telemetry", "Temperature"], "name": "tempIntake", "displayName": "Temperatura de entrada", "schema": "double", "unit": "degreeCelsius" },
+    { "@type": ["Telemetry", "Temperature"], "name": "tempExhaust", "displayName": "Temperatura de salida", "schema": "double", "unit": "degreeCelsius" },
+    { "@type": ["Telemetry", "RelativeHumidity"], "name": "humidity", "displayName": "Humedad relativa", "schema": "double", "unit": "percent" },
+    { "@type": ["Property", "Temperature"], "name": "alarmThreshold", "displayName": "Umbral de alarma", "schema": "double", "unit": "degreeCelsius", "writable": true },
+    {
+      "@type": "Command", "name": "setFan", "displayName": "Encender/apagar ventilador",
+      "request": { "name": "on", "displayName": "Encendido", "schema": "boolean" },
+      "response": { "name": "fanState", "displayName": "Estado del ventilador", "schema": "boolean" }
+    }
+  ]
+}
