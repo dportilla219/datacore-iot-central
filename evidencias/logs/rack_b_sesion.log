@@ -2155,3 +2155,499 @@
 2026-09-27 17:55:58,543 | INFO | TX {'tempIntake': 26.54, 'tempExhaust': 38.82, 'humidity': 46.1}
 2026-09-27 17:56:28,784 | INFO | TX {'tempIntake': 25.75, 'tempExhaust': 36.45, 'humidity': 47.0}
 2026-09-27 17:56:58,984 | INFO | TX {'tempIntake': 24.69, 'tempExhaust': 38.23, 'humidity': 41.9}
+2026-09-28 16:53:45,866 | INFO | Provisionando 'dc-rack-b' en DPS (scope 0ne00FE1FA6)...
+2026-09-28 16:53:49,125 | INFO | Asignado al hub iotc-e506a1e3-3618-43c3-be68-3bb1f19dc622.azure-devices.net
+2026-09-28 16:53:50,000 | INFO | Conectado a IoT Central. Enviando cada 30 s (script v1.1.0). Ctrl+C para detener.
+2026-09-28 16:53:50,211 | INFO | PROPERTY alarmThreshold actualizada -> 27.0 degC
+2026-09-28 16:53:50,685 | INFO | TX {'tempIntake': 22.25, 'tempExhaust': 34.8, 'humidity': 52.7}
+2026-09-28 16:54:20,882 | INFO | TX {'tempIntake': 22.16, 'tempExhaust': 32.47, 'humidity': 53.9}
+2026-09-28 16:54:51,091 | INFO | TX {'tempIntake': 21.92, 'tempExhaust': 32.08, 'humidity': 45.5}
+2026-09-28 16:55:21,300 | INFO | TX {'tempIntake': 21.9, 'tempExhaust': 33.56, 'humidity': 43.2}
+2026-09-28 16:55:51,517 | INFO | TX {'tempIntake': 22.43, 'tempExhaust': 34.08, 'humidity': 41.4}
+2026-09-28 16:56:21,717 | INFO | TX {'tempIntake': 22.2, 'tempExhaust': 32.97, 'humidity': 49.8}
+2026-09-28 16:56:51,937 | INFO | TX {'tempIntake': 22.21, 'tempExhaust': 35.56, 'humidity': 53.9}
+2026-09-28 16:57:22,159 | INFO | TX {'tempIntake': 22.29, 'tempExhaust': 34.02, 'humidity': 49.2}
+2026-09-28 16:57:52,366 | INFO | TX {'tempIntake': 22.07, 'tempExhaust': 34.8, 'humidity': 46.0}
+2026-09-28 16:58:22,615 | INFO | TX {'tempIntake': 22.03, 'tempExhaust': 35.9, 'humidity': 45.2}
+2026-09-28 16:58:52,836 | INFO | TX {'tempIntake': 21.83, 'tempExhaust': 32.31, 'humidity': 41.1}
+2026-09-28 16:59:23,100 | INFO | TX {'tempIntake': 21.9, 'tempExhaust': 33.85, 'humidity': 41.6}
+2026-09-28 16:59:53,307 | INFO | TX {'tempIntake': 22.4, 'tempExhaust': 33.56, 'humidity': 40.8}
+2026-09-28 17:00:23,536 | INFO | TX {'tempIntake': 21.94, 'tempExhaust': 33.44, 'humidity': 45.5}
+2026-09-28 17:00:53,742 | INFO | TX {'tempIntake': 21.68, 'tempExhaust': 34.62, 'humidity': 51.3}
+2026-09-28 17:01:23,978 | INFO | TX {'tempIntake': 21.73, 'tempExhaust': 33.93, 'humidity': 41.4}
+2026-09-28 17:01:54,190 | INFO | TX {'tempIntake': 21.89, 'tempExhaust': 31.93, 'humidity': 51.1}
+2026-09-28 17:02:24,443 | INFO | TX {'tempIntake': 21.95, 'tempExhaust': 32.42, 'humidity': 41.7}
+2026-09-28 17:02:54,655 | INFO | TX {'tempIntake': 21.98, 'tempExhaust': 33.6, 'humidity': 44.3}
+2026-09-28 17:03:24,901 | INFO | TX {'tempIntake': 22.14, 'tempExhaust': 33.59, 'humidity': 52.2}
+2026-09-28 17:03:55,111 | INFO | TX {'tempIntake': 21.87, 'tempExhaust': 34.64, 'humidity': 40.6}
+2026-09-28 17:04:25,329 | INFO | TX {'tempIntake': 21.53, 'tempExhaust': 32.71, 'humidity': 52.0}
+2026-09-28 17:04:55,544 | INFO | TX {'tempIntake': 21.54, 'tempExhaust': 32.22, 'humidity': 51.2}
+2026-09-28 17:05:25,754 | INFO | TX {'tempIntake': 21.74, 'tempExhaust': 35.16, 'humidity': 40.4}
+2026-09-28 17:05:55,961 | INFO | TX {'tempIntake': 21.72, 'tempExhaust': 32.79, 'humidity': 52.6}
+2026-09-28 17:06:26,172 | INFO | TX {'tempIntake': 21.72, 'tempExhaust': 35.39, 'humidity': 47.2}
+2026-09-28 17:06:56,384 | INFO | TX {'tempIntake': 21.74, 'tempExhaust': 35.69, 'humidity': 48.0}
+2026-09-28 17:07:26,584 | INFO | TX {'tempIntake': 21.94, 'tempExhaust': 32.77, 'humidity': 52.5}
+2026-09-28 17:07:56,786 | INFO | TX {'tempIntake': 21.69, 'tempExhaust': 33.25, 'humidity': 49.4}
+2026-09-28 17:08:27,019 | INFO | TX {'tempIntake': 22.09, 'tempExhaust': 32.72, 'humidity': 53.1}
+2026-09-28 17:08:57,226 | INFO | TX {'tempIntake': 22.2, 'tempExhaust': 34.91, 'humidity': 51.7}
+2026-09-28 17:09:27,440 | INFO | TX {'tempIntake': 22.21, 'tempExhaust': 32.99, 'humidity': 49.9}
+2026-09-28 17:09:57,650 | INFO | TX {'tempIntake': 22.32, 'tempExhaust': 35.28, 'humidity': 49.0}
+2026-09-28 17:10:27,859 | INFO | TX {'tempIntake': 22.17, 'tempExhaust': 33.92, 'humidity': 51.0}
+2026-09-28 17:10:58,093 | INFO | TX {'tempIntake': 22.37, 'tempExhaust': 32.62, 'humidity': 42.3}
+2026-09-28 17:11:28,302 | INFO | TX {'tempIntake': 22.34, 'tempExhaust': 33.11, 'humidity': 47.3}
+2026-09-28 17:11:58,515 | INFO | TX {'tempIntake': 22.53, 'tempExhaust': 33.65, 'humidity': 44.4}
+2026-09-28 17:12:28,723 | INFO | TX {'tempIntake': 22.5, 'tempExhaust': 35.82, 'humidity': 46.4}
+2026-09-28 17:12:58,930 | INFO | TX {'tempIntake': 22.54, 'tempExhaust': 33.79, 'humidity': 43.4}
+2026-09-28 17:13:29,135 | INFO | TX {'tempIntake': 22.2, 'tempExhaust': 36.11, 'humidity': 54.7}
+2026-09-28 17:13:59,352 | INFO | TX {'tempIntake': 22.2, 'tempExhaust': 33.91, 'humidity': 48.7}
+2026-09-28 17:14:29,601 | INFO | TX {'tempIntake': 22.05, 'tempExhaust': 35.17, 'humidity': 50.3}
+2026-09-28 17:14:59,822 | INFO | TX {'tempIntake': 21.92, 'tempExhaust': 34.65, 'humidity': 52.6}
+2026-09-28 17:15:30,033 | INFO | TX {'tempIntake': 22.0, 'tempExhaust': 34.24, 'humidity': 43.6}
+2026-09-28 17:16:00,255 | INFO | TX {'tempIntake': 21.84, 'tempExhaust': 35.11, 'humidity': 41.6}
+2026-09-28 17:16:30,467 | INFO | TX {'tempIntake': 21.92, 'tempExhaust': 35.86, 'humidity': 51.6}
+2026-09-28 17:17:00,668 | INFO | TX {'tempIntake': 21.98, 'tempExhaust': 33.2, 'humidity': 44.0}
+2026-09-28 17:17:30,882 | INFO | TX {'tempIntake': 21.99, 'tempExhaust': 34.9, 'humidity': 42.6}
+2026-09-28 17:18:01,086 | INFO | TX {'tempIntake': 21.82, 'tempExhaust': 32.03, 'humidity': 45.7}
+2026-09-28 17:18:31,298 | INFO | TX {'tempIntake': 21.92, 'tempExhaust': 34.66, 'humidity': 51.5}
+2026-09-28 17:19:01,514 | INFO | TX {'tempIntake': 21.63, 'tempExhaust': 34.54, 'humidity': 47.6}
+2026-09-28 17:19:31,715 | INFO | TX {'tempIntake': 21.74, 'tempExhaust': 31.86, 'humidity': 40.2}
+2026-09-28 17:20:01,930 | INFO | TX {'tempIntake': 22.02, 'tempExhaust': 35.88, 'humidity': 40.4}
+2026-09-28 17:20:32,145 | INFO | TX {'tempIntake': 21.99, 'tempExhaust': 35.77, 'humidity': 49.9}
+2026-09-28 17:21:02,343 | INFO | TX {'tempIntake': 21.8, 'tempExhaust': 34.53, 'humidity': 42.1}
+2026-09-28 17:21:32,551 | INFO | TX {'tempIntake': 21.86, 'tempExhaust': 34.19, 'humidity': 43.1}
+2026-09-28 17:22:02,761 | INFO | TX {'tempIntake': 22.05, 'tempExhaust': 33.8, 'humidity': 51.9}
+2026-09-28 17:22:32,975 | INFO | TX {'tempIntake': 22.02, 'tempExhaust': 33.9, 'humidity': 44.9}
+2026-09-28 17:23:03,191 | INFO | TX {'tempIntake': 21.79, 'tempExhaust': 32.44, 'humidity': 46.9}
+2026-09-28 17:23:33,405 | INFO | TX {'tempIntake': 21.67, 'tempExhaust': 32.16, 'humidity': 47.4}
+2026-09-28 17:24:03,614 | INFO | TX {'tempIntake': 21.53, 'tempExhaust': 33.59, 'humidity': 44.6}
+2026-09-28 17:24:33,821 | INFO | TX {'tempIntake': 21.51, 'tempExhaust': 33.24, 'humidity': 54.8}
+2026-09-28 17:25:04,044 | INFO | TX {'tempIntake': 21.21, 'tempExhaust': 31.26, 'humidity': 52.8}
+2026-09-28 17:25:34,261 | INFO | TX {'tempIntake': 21.33, 'tempExhaust': 33.72, 'humidity': 51.7}
+2026-09-28 17:26:04,477 | INFO | TX {'tempIntake': 21.15, 'tempExhaust': 35.01, 'humidity': 53.1}
+2026-09-28 17:26:34,684 | INFO | TX {'tempIntake': 21.02, 'tempExhaust': 32.54, 'humidity': 48.9}
+2026-09-28 17:27:04,909 | INFO | TX {'tempIntake': 21.15, 'tempExhaust': 33.11, 'humidity': 40.5}
+2026-09-28 17:27:35,129 | INFO | TX {'tempIntake': 21.63, 'tempExhaust': 32.48, 'humidity': 40.6}
+2026-09-28 17:28:05,369 | INFO | TX {'tempIntake': 21.88, 'tempExhaust': 34.94, 'humidity': 41.7}
+2026-09-28 17:28:35,570 | INFO | TX {'tempIntake': 22.09, 'tempExhaust': 35.73, 'humidity': 47.0}
+2026-09-28 17:29:05,780 | INFO | TX {'tempIntake': 21.87, 'tempExhaust': 34.84, 'humidity': 54.8}
+2026-09-28 17:29:35,995 | INFO | TX {'tempIntake': 21.78, 'tempExhaust': 33.09, 'humidity': 41.0}
+2026-09-28 17:30:06,200 | INFO | TX {'tempIntake': 21.83, 'tempExhaust': 33.98, 'humidity': 54.2}
+2026-09-28 17:30:36,416 | INFO | TX {'tempIntake': 21.99, 'tempExhaust': 32.23, 'humidity': 49.5}
+2026-09-28 17:31:06,626 | INFO | TX {'tempIntake': 21.9, 'tempExhaust': 35.38, 'humidity': 46.2}
+2026-09-28 17:31:36,834 | INFO | TX {'tempIntake': 22.12, 'tempExhaust': 35.88, 'humidity': 40.4}
+2026-09-28 17:32:07,046 | INFO | TX {'tempIntake': 22.09, 'tempExhaust': 36.03, 'humidity': 40.3}
+2026-09-28 17:32:37,258 | INFO | TX {'tempIntake': 21.96, 'tempExhaust': 33.16, 'humidity': 52.4}
+2026-09-28 17:33:07,473 | INFO | TX {'tempIntake': 22.41, 'tempExhaust': 34.99, 'humidity': 48.9}
+2026-09-28 17:33:37,671 | INFO | TX {'tempIntake': 22.71, 'tempExhaust': 34.48, 'humidity': 53.8}
+2026-09-28 17:34:07,876 | INFO | TX {'tempIntake': 22.77, 'tempExhaust': 36.54, 'humidity': 42.6}
+2026-09-28 17:34:38,090 | INFO | TX {'tempIntake': 22.75, 'tempExhaust': 35.07, 'humidity': 49.8}
+2026-09-28 17:35:08,314 | INFO | TX {'tempIntake': 22.59, 'tempExhaust': 33.48, 'humidity': 49.3}
+2026-09-28 17:35:38,538 | INFO | TX {'tempIntake': 22.4, 'tempExhaust': 33.58, 'humidity': 45.1}
+2026-09-28 17:36:08,735 | INFO | TX {'tempIntake': 22.68, 'tempExhaust': 32.86, 'humidity': 51.8}
+2026-09-28 17:36:38,979 | INFO | TX {'tempIntake': 22.32, 'tempExhaust': 33.7, 'humidity': 49.2}
+2026-09-28 17:37:09,191 | INFO | TX {'tempIntake': 22.36, 'tempExhaust': 32.64, 'humidity': 55.0}
+2026-09-28 17:37:39,438 | INFO | TX {'tempIntake': 21.94, 'tempExhaust': 32.62, 'humidity': 54.9}
+2026-09-28 17:38:09,654 | INFO | TX {'tempIntake': 21.86, 'tempExhaust': 33.14, 'humidity': 48.5}
+2026-09-28 17:38:39,853 | INFO | TX {'tempIntake': 22.32, 'tempExhaust': 33.42, 'humidity': 49.7}
+2026-09-28 17:39:10,067 | INFO | TX {'tempIntake': 22.21, 'tempExhaust': 34.68, 'humidity': 47.8}
+2026-09-28 17:39:40,268 | INFO | TX {'tempIntake': 22.08, 'tempExhaust': 35.32, 'humidity': 46.1}
+2026-09-28 17:40:10,485 | INFO | TX {'tempIntake': 22.11, 'tempExhaust': 35.07, 'humidity': 52.9}
+2026-09-28 17:40:40,709 | INFO | TX {'tempIntake': 22.08, 'tempExhaust': 34.66, 'humidity': 51.0}
+2026-09-28 17:41:10,943 | INFO | TX {'tempIntake': 21.9, 'tempExhaust': 34.96, 'humidity': 48.4}
+2026-09-28 17:41:41,152 | INFO | TX {'tempIntake': 21.82, 'tempExhaust': 33.39, 'humidity': 54.9}
+2026-09-28 17:42:11,393 | INFO | TX {'tempIntake': 21.68, 'tempExhaust': 35.57, 'humidity': 45.6}
+2026-09-28 17:42:41,606 | INFO | TX {'tempIntake': 21.73, 'tempExhaust': 34.53, 'humidity': 54.4}
+2026-09-28 17:43:11,820 | INFO | TX {'tempIntake': 21.72, 'tempExhaust': 33.48, 'humidity': 53.7}
+2026-09-28 17:43:42,030 | INFO | TX {'tempIntake': 22.01, 'tempExhaust': 34.83, 'humidity': 50.8}
+2026-09-28 17:44:12,228 | INFO | TX {'tempIntake': 22.06, 'tempExhaust': 35.4, 'humidity': 50.5}
+2026-09-28 17:44:43,778 | INFO | TX {'tempIntake': 21.63, 'tempExhaust': 35.09, 'humidity': 45.7}
+2026-09-28 17:45:13,994 | INFO | TX {'tempIntake': 21.65, 'tempExhaust': 34.79, 'humidity': 51.0}
+2026-09-28 17:45:44,209 | INFO | TX {'tempIntake': 21.44, 'tempExhaust': 32.64, 'humidity': 52.2}
+2026-09-28 17:46:14,422 | INFO | TX {'tempIntake': 21.71, 'tempExhaust': 35.15, 'humidity': 45.4}
+2026-09-28 17:46:44,635 | INFO | TX {'tempIntake': 21.52, 'tempExhaust': 31.71, 'humidity': 54.3}
+2026-09-28 17:47:14,958 | INFO | TX {'tempIntake': 21.26, 'tempExhaust': 33.58, 'humidity': 45.9}
+2026-09-28 17:47:45,190 | INFO | TX {'tempIntake': 21.6, 'tempExhaust': 34.55, 'humidity': 41.0}
+2026-09-28 17:48:15,402 | INFO | TX {'tempIntake': 21.64, 'tempExhaust': 34.94, 'humidity': 45.8}
+2026-09-28 17:48:45,615 | INFO | TX {'tempIntake': 21.88, 'tempExhaust': 34.76, 'humidity': 49.8}
+2026-09-28 17:49:15,838 | INFO | TX {'tempIntake': 22.07, 'tempExhaust': 32.52, 'humidity': 41.4}
+2026-09-28 17:49:46,043 | INFO | TX {'tempIntake': 22.16, 'tempExhaust': 32.43, 'humidity': 51.4}
+2026-09-28 17:50:16,251 | INFO | TX {'tempIntake': 22.18, 'tempExhaust': 33.38, 'humidity': 51.3}
+2026-09-28 17:50:46,470 | INFO | TX {'tempIntake': 22.28, 'tempExhaust': 35.56, 'humidity': 54.7}
+2026-09-28 17:51:16,672 | INFO | TX {'tempIntake': 22.23, 'tempExhaust': 32.82, 'humidity': 49.8}
+2026-09-28 17:51:46,873 | INFO | TX {'tempIntake': 22.4, 'tempExhaust': 32.59, 'humidity': 46.2}
+2026-09-28 17:51:49,428 | INFO | Estado de conexion: DISCONNECTED
+2026-09-28 17:51:50,059 | INFO | Estado de conexion: CONNECTED
+2026-09-28 17:51:50,184 | INFO | PROPERTY alarmThreshold actualizada -> 27.0 degC
+2026-09-28 17:52:17,094 | INFO | TX {'tempIntake': 22.37, 'tempExhaust': 35.54, 'humidity': 44.6}
+2026-09-28 17:52:47,315 | INFO | TX {'tempIntake': 22.38, 'tempExhaust': 34.93, 'humidity': 44.3}
+2026-09-28 17:53:17,538 | INFO | TX {'tempIntake': 22.56, 'tempExhaust': 34.73, 'humidity': 46.7}
+2026-09-28 17:53:47,767 | INFO | TX {'tempIntake': 22.58, 'tempExhaust': 35.5, 'humidity': 43.3}
+2026-09-28 17:54:17,979 | INFO | TX {'tempIntake': 22.91, 'tempExhaust': 33.0, 'humidity': 46.3}
+2026-09-28 17:54:48,210 | INFO | TX {'tempIntake': 22.47, 'tempExhaust': 32.82, 'humidity': 42.9}
+2026-09-28 17:55:18,479 | INFO | TX {'tempIntake': 22.49, 'tempExhaust': 33.76, 'humidity': 41.5}
+2026-09-28 17:55:48,701 | INFO | TX {'tempIntake': 22.71, 'tempExhaust': 35.98, 'humidity': 40.8}
+2026-09-28 17:56:18,923 | INFO | TX {'tempIntake': 22.45, 'tempExhaust': 34.8, 'humidity': 52.8}
+2026-09-28 17:56:49,156 | INFO | TX {'tempIntake': 22.44, 'tempExhaust': 35.11, 'humidity': 43.8}
+2026-09-28 17:57:19,379 | INFO | TX {'tempIntake': 22.04, 'tempExhaust': 32.95, 'humidity': 45.4}
+2026-09-28 17:57:49,595 | INFO | TX {'tempIntake': 22.14, 'tempExhaust': 35.44, 'humidity': 42.9}
+2026-09-28 17:58:19,827 | INFO | TX {'tempIntake': 22.02, 'tempExhaust': 35.71, 'humidity': 54.4}
+2026-09-28 17:58:50,041 | INFO | TX {'tempIntake': 22.13, 'tempExhaust': 35.16, 'humidity': 45.3}
+2026-09-28 17:59:20,264 | INFO | TX {'tempIntake': 22.19, 'tempExhaust': 36.06, 'humidity': 42.1}
+2026-09-28 17:59:50,474 | INFO | TX {'tempIntake': 22.41, 'tempExhaust': 36.1, 'humidity': 50.7}
+2026-09-28 18:00:20,692 | INFO | TX {'tempIntake': 22.43, 'tempExhaust': 32.45, 'humidity': 53.4}
+2026-09-28 18:00:50,912 | INFO | TX {'tempIntake': 22.23, 'tempExhaust': 32.77, 'humidity': 40.8}
+2026-09-28 18:01:21,139 | INFO | TX {'tempIntake': 22.32, 'tempExhaust': 32.99, 'humidity': 48.3}
+2026-09-28 18:01:51,358 | INFO | TX {'tempIntake': 21.94, 'tempExhaust': 32.05, 'humidity': 44.3}
+2026-09-28 18:02:21,579 | INFO | TX {'tempIntake': 22.09, 'tempExhaust': 33.11, 'humidity': 43.4}
+2026-09-28 18:02:51,798 | INFO | TX {'tempIntake': 22.12, 'tempExhaust': 35.78, 'humidity': 46.7}
+2026-09-28 18:03:22,012 | INFO | TX {'tempIntake': 21.95, 'tempExhaust': 35.92, 'humidity': 50.5}
+2026-09-28 18:03:52,219 | INFO | TX {'tempIntake': 21.92, 'tempExhaust': 33.57, 'humidity': 44.1}
+2026-09-28 18:04:22,439 | INFO | TX {'tempIntake': 22.22, 'tempExhaust': 34.84, 'humidity': 50.7}
+2026-09-28 18:04:52,664 | INFO | TX {'tempIntake': 22.33, 'tempExhaust': 35.38, 'humidity': 42.6}
+2026-09-28 18:05:22,901 | INFO | TX {'tempIntake': 22.0, 'tempExhaust': 32.03, 'humidity': 52.3}
+2026-09-28 18:05:53,179 | INFO | TX {'tempIntake': 21.76, 'tempExhaust': 34.36, 'humidity': 41.6}
+2026-09-28 18:05:55,604 | INFO | PROPERTY alarmThreshold actualizada -> 22.0 degC
+2026-09-28 18:06:23,393 | INFO | TX {'tempIntake': 21.85, 'tempExhaust': 31.93, 'humidity': 49.7}
+2026-09-28 18:06:33,387 | INFO | COMANDO setFan recibido -> ventilador ENCENDIDO
+2026-09-28 18:06:53,616 | INFO | TX {'tempIntake': 21.79, 'tempExhaust': 35.53, 'humidity': 53.3}
+2026-09-28 18:07:23,834 | INFO | TX {'tempIntake': 21.58, 'tempExhaust': 32.37, 'humidity': 54.1}
+2026-09-28 18:07:54,085 | INFO | TX {'tempIntake': 21.21, 'tempExhaust': 34.85, 'humidity': 40.1}
+2026-09-28 18:08:24,337 | INFO | TX {'tempIntake': 21.06, 'tempExhaust': 31.5, 'humidity': 49.1}
+2026-09-28 18:08:54,562 | INFO | TX {'tempIntake': 21.03, 'tempExhaust': 32.45, 'humidity': 46.2}
+2026-09-28 18:09:24,805 | INFO | TX {'tempIntake': 20.91, 'tempExhaust': 31.49, 'humidity': 49.6}
+2026-09-28 18:09:55,029 | INFO | TX {'tempIntake': 20.84, 'tempExhaust': 32.66, 'humidity': 51.0}
+2026-09-28 18:10:25,249 | INFO | TX {'tempIntake': 20.71, 'tempExhaust': 32.74, 'humidity': 51.0}
+2026-09-28 18:10:55,473 | INFO | TX {'tempIntake': 20.38, 'tempExhaust': 30.51, 'humidity': 52.9}
+2026-09-28 18:11:25,693 | INFO | TX {'tempIntake': 20.29, 'tempExhaust': 31.08, 'humidity': 40.0}
+2026-09-28 18:11:55,917 | INFO | TX {'tempIntake': 20.31, 'tempExhaust': 32.11, 'humidity': 49.0}
+2026-09-28 18:12:26,129 | INFO | TX {'tempIntake': 20.27, 'tempExhaust': 31.17, 'humidity': 52.0}
+2026-09-28 18:12:56,347 | INFO | TX {'tempIntake': 20.09, 'tempExhaust': 30.94, 'humidity': 44.3}
+2026-09-28 18:13:26,576 | INFO | TX {'tempIntake': 20.1, 'tempExhaust': 33.96, 'humidity': 40.1}
+2026-09-28 18:13:56,794 | INFO | TX {'tempIntake': 19.8, 'tempExhaust': 33.44, 'humidity': 50.1}
+2026-09-28 18:14:27,018 | INFO | TX {'tempIntake': 19.86, 'tempExhaust': 32.16, 'humidity': 49.9}
+2026-09-28 18:14:57,242 | INFO | TX {'tempIntake': 19.74, 'tempExhaust': 32.64, 'humidity': 54.8}
+2026-09-28 18:15:27,506 | INFO | TX {'tempIntake': 20.01, 'tempExhaust': 31.35, 'humidity': 47.9}
+2026-09-28 18:15:57,736 | INFO | TX {'tempIntake': 20.51, 'tempExhaust': 32.42, 'humidity': 45.1}
+2026-09-28 18:16:27,961 | INFO | TX {'tempIntake': 20.29, 'tempExhaust': 33.4, 'humidity': 45.3}
+2026-09-28 18:16:58,172 | INFO | TX {'tempIntake': 20.25, 'tempExhaust': 32.72, 'humidity': 40.8}
+2026-09-28 18:17:11,835 | INFO | COMANDO setFan recibido -> ventilador APAGADO
+2026-09-28 18:17:28,398 | INFO | TX {'tempIntake': 20.82, 'tempExhaust': 32.5, 'humidity': 52.6}
+2026-09-28 18:17:58,621 | INFO | TX {'tempIntake': 21.04, 'tempExhaust': 34.46, 'humidity': 49.8}
+2026-09-28 18:18:28,848 | INFO | TX {'tempIntake': 21.15, 'tempExhaust': 33.71, 'humidity': 43.5}
+2026-09-28 18:18:59,086 | INFO | TX {'tempIntake': 21.27, 'tempExhaust': 35.04, 'humidity': 54.1}
+2026-09-28 18:19:29,323 | INFO | TX {'tempIntake': 20.96, 'tempExhaust': 34.67, 'humidity': 40.1}
+2026-09-28 18:19:59,535 | INFO | TX {'tempIntake': 21.38, 'tempExhaust': 34.08, 'humidity': 50.3}
+2026-09-28 18:20:29,748 | INFO | TX {'tempIntake': 21.66, 'tempExhaust': 32.15, 'humidity': 47.7}
+2026-09-28 18:20:59,968 | INFO | TX {'tempIntake': 21.76, 'tempExhaust': 35.57, 'humidity': 42.6}
+2026-09-28 18:21:30,195 | INFO | TX {'tempIntake': 21.91, 'tempExhaust': 34.36, 'humidity': 47.9}
+2026-09-28 18:22:00,426 | INFO | TX {'tempIntake': 22.22, 'tempExhaust': 34.4, 'humidity': 44.9} ALARMA: intake sobre umbral
+2026-09-28 18:22:30,650 | INFO | TX {'tempIntake': 22.39, 'tempExhaust': 32.98, 'humidity': 42.6} ALARMA: intake sobre umbral
+2026-09-28 18:23:00,858 | INFO | TX {'tempIntake': 22.57, 'tempExhaust': 33.87, 'humidity': 49.2} ALARMA: intake sobre umbral
+2026-09-28 18:23:31,084 | INFO | TX {'tempIntake': 22.64, 'tempExhaust': 33.01, 'humidity': 46.0} ALARMA: intake sobre umbral
+2026-09-28 18:24:01,307 | INFO | TX {'tempIntake': 22.61, 'tempExhaust': 34.35, 'humidity': 51.6} ALARMA: intake sobre umbral
+2026-09-28 18:24:31,534 | INFO | TX {'tempIntake': 22.8, 'tempExhaust': 35.23, 'humidity': 52.7} ALARMA: intake sobre umbral
+2026-09-28 18:25:01,745 | INFO | TX {'tempIntake': 23.0, 'tempExhaust': 33.48, 'humidity': 52.8} ALARMA: intake sobre umbral
+2026-09-28 18:25:31,962 | INFO | TX {'tempIntake': 23.16, 'tempExhaust': 34.13, 'humidity': 44.6} ALARMA: intake sobre umbral
+2026-09-28 18:26:02,188 | INFO | TX {'tempIntake': 23.31, 'tempExhaust': 33.58, 'humidity': 49.8} ALARMA: intake sobre umbral
+2026-09-28 18:26:32,597 | INFO | TX {'tempIntake': 23.01, 'tempExhaust': 34.26, 'humidity': 47.2} ALARMA: intake sobre umbral
+2026-09-28 18:27:02,813 | INFO | TX {'tempIntake': 22.93, 'tempExhaust': 36.75, 'humidity': 54.2} ALARMA: intake sobre umbral
+2026-09-28 18:27:33,031 | INFO | TX {'tempIntake': 22.76, 'tempExhaust': 36.0, 'humidity': 54.1} ALARMA: intake sobre umbral
+2026-09-28 18:28:03,250 | INFO | TX {'tempIntake': 22.84, 'tempExhaust': 35.57, 'humidity': 47.5} ALARMA: intake sobre umbral
+2026-09-28 18:28:33,470 | INFO | TX {'tempIntake': 22.78, 'tempExhaust': 33.32, 'humidity': 41.1} ALARMA: intake sobre umbral
+2026-09-28 18:29:03,698 | INFO | TX {'tempIntake': 22.45, 'tempExhaust': 34.96, 'humidity': 42.1} ALARMA: intake sobre umbral
+2026-09-28 18:29:33,904 | INFO | TX {'tempIntake': 22.33, 'tempExhaust': 35.44, 'humidity': 53.4} ALARMA: intake sobre umbral
+2026-09-28 18:30:04,114 | INFO | TX {'tempIntake': 22.4, 'tempExhaust': 36.05, 'humidity': 50.8} ALARMA: intake sobre umbral
+2026-09-28 18:30:34,343 | INFO | TX {'tempIntake': 22.32, 'tempExhaust': 33.96, 'humidity': 44.9} ALARMA: intake sobre umbral
+2026-09-28 18:31:04,570 | INFO | TX {'tempIntake': 22.43, 'tempExhaust': 35.56, 'humidity': 43.1} ALARMA: intake sobre umbral
+2026-09-28 18:31:34,861 | INFO | TX {'tempIntake': 22.65, 'tempExhaust': 32.74, 'humidity': 54.3} ALARMA: intake sobre umbral
+2026-09-28 18:32:05,085 | INFO | TX {'tempIntake': 22.81, 'tempExhaust': 36.72, 'humidity': 44.3} ALARMA: intake sobre umbral
+2026-09-28 18:32:35,301 | INFO | TX {'tempIntake': 23.2, 'tempExhaust': 36.35, 'humidity': 49.9} ALARMA: intake sobre umbral
+2026-09-28 18:33:05,517 | INFO | TX {'tempIntake': 23.16, 'tempExhaust': 36.52, 'humidity': 49.7} ALARMA: intake sobre umbral
+2026-09-28 18:33:35,735 | INFO | TX {'tempIntake': 23.04, 'tempExhaust': 35.29, 'humidity': 50.1} ALARMA: intake sobre umbral
+2026-09-28 18:34:05,964 | INFO | TX {'tempIntake': 23.04, 'tempExhaust': 35.95, 'humidity': 40.0} ALARMA: intake sobre umbral
+2026-09-28 18:34:36,182 | INFO | TX {'tempIntake': 23.02, 'tempExhaust': 36.84, 'humidity': 54.0} ALARMA: intake sobre umbral
+2026-09-28 18:35:06,393 | INFO | TX {'tempIntake': 22.61, 'tempExhaust': 33.74, 'humidity': 53.5} ALARMA: intake sobre umbral
+2026-09-28 18:35:36,605 | INFO | TX {'tempIntake': 22.68, 'tempExhaust': 34.36, 'humidity': 49.4} ALARMA: intake sobre umbral
+2026-09-28 18:36:06,830 | INFO | TX {'tempIntake': 22.8, 'tempExhaust': 34.01, 'humidity': 50.0} ALARMA: intake sobre umbral
+2026-09-28 18:36:37,047 | INFO | TX {'tempIntake': 22.68, 'tempExhaust': 33.76, 'humidity': 47.3} ALARMA: intake sobre umbral
+2026-09-28 18:37:07,270 | INFO | TX {'tempIntake': 22.45, 'tempExhaust': 36.24, 'humidity': 48.1} ALARMA: intake sobre umbral
+2026-09-28 18:37:37,515 | INFO | TX {'tempIntake': 22.46, 'tempExhaust': 33.01, 'humidity': 49.6} ALARMA: intake sobre umbral
+2026-09-28 18:38:07,773 | INFO | TX {'tempIntake': 22.28, 'tempExhaust': 33.14, 'humidity': 42.3} ALARMA: intake sobre umbral
+2026-09-28 18:38:37,991 | INFO | TX {'tempIntake': 22.26, 'tempExhaust': 35.5, 'humidity': 45.7} ALARMA: intake sobre umbral
+2026-09-28 18:39:08,232 | INFO | TX {'tempIntake': 22.29, 'tempExhaust': 35.14, 'humidity': 48.2} ALARMA: intake sobre umbral
+2026-09-28 18:39:38,451 | INFO | TX {'tempIntake': 22.06, 'tempExhaust': 34.83, 'humidity': 41.9} ALARMA: intake sobre umbral
+2026-09-28 18:40:08,695 | INFO | TX {'tempIntake': 22.51, 'tempExhaust': 35.53, 'humidity': 41.8} ALARMA: intake sobre umbral
+2026-09-28 18:40:38,904 | INFO | TX {'tempIntake': 22.17, 'tempExhaust': 34.79, 'humidity': 46.1} ALARMA: intake sobre umbral
+2026-09-28 18:41:09,152 | INFO | TX {'tempIntake': 21.99, 'tempExhaust': 34.35, 'humidity': 47.1}
+2026-09-28 18:41:39,416 | INFO | TX {'tempIntake': 21.79, 'tempExhaust': 33.21, 'humidity': 47.4}
+2026-09-28 18:42:09,641 | INFO | TX {'tempIntake': 21.87, 'tempExhaust': 31.99, 'humidity': 43.8}
+2026-09-28 18:42:39,863 | INFO | TX {'tempIntake': 21.69, 'tempExhaust': 32.98, 'humidity': 52.1}
+2026-09-28 18:43:10,074 | INFO | TX {'tempIntake': 21.72, 'tempExhaust': 34.96, 'humidity': 43.4}
+2026-09-28 18:43:40,292 | INFO | TX {'tempIntake': 21.5, 'tempExhaust': 34.69, 'humidity': 45.1}
+2026-09-28 18:44:10,520 | INFO | TX {'tempIntake': 21.71, 'tempExhaust': 33.49, 'humidity': 40.7}
+2026-09-28 18:44:40,739 | INFO | TX {'tempIntake': 21.79, 'tempExhaust': 34.76, 'humidity': 43.6}
+2026-09-28 18:45:10,947 | INFO | TX {'tempIntake': 21.72, 'tempExhaust': 32.29, 'humidity': 54.4}
+2026-09-28 18:45:12,618 | INFO | PROPERTY alarmThreshold actualizada -> 27.0 degC
+2026-09-28 18:45:41,168 | INFO | TX {'tempIntake': 21.81, 'tempExhaust': 33.59, 'humidity': 50.5}
+2026-09-28 18:46:11,383 | INFO | TX {'tempIntake': 21.99, 'tempExhaust': 34.29, 'humidity': 51.6}
+2026-09-28 18:46:41,600 | INFO | TX {'tempIntake': 21.87, 'tempExhaust': 34.09, 'humidity': 43.0}
+2026-09-28 18:47:11,823 | INFO | TX {'tempIntake': 21.97, 'tempExhaust': 33.78, 'humidity': 51.9}
+2026-09-28 18:47:42,047 | INFO | TX {'tempIntake': 22.08, 'tempExhaust': 32.09, 'humidity': 41.1}
+2026-09-28 18:48:12,273 | INFO | TX {'tempIntake': 21.95, 'tempExhaust': 32.61, 'humidity': 41.9}
+2026-09-28 18:48:42,483 | INFO | TX {'tempIntake': 21.92, 'tempExhaust': 32.22, 'humidity': 54.3}
+2026-09-28 18:49:12,712 | INFO | TX {'tempIntake': 22.13, 'tempExhaust': 33.08, 'humidity': 48.8}
+2026-09-28 18:49:42,926 | INFO | TX {'tempIntake': 22.38, 'tempExhaust': 33.03, 'humidity': 52.1}
+2026-09-28 18:49:49,336 | INFO | Estado de conexion: DISCONNECTED
+2026-09-28 18:49:49,988 | INFO | Estado de conexion: CONNECTED
+2026-09-28 18:50:13,126 | INFO | TX {'tempIntake': 22.12, 'tempExhaust': 33.53, 'humidity': 40.1}
+2026-09-28 18:50:43,337 | INFO | TX {'tempIntake': 21.91, 'tempExhaust': 35.44, 'humidity': 42.6}
+2026-09-28 18:51:13,538 | INFO | TX {'tempIntake': 22.13, 'tempExhaust': 35.97, 'humidity': 54.3}
+2026-09-28 18:51:43,745 | INFO | TX {'tempIntake': 21.68, 'tempExhaust': 33.03, 'humidity': 43.6}
+2026-09-28 18:52:13,935 | INFO | TX {'tempIntake': 21.3, 'tempExhaust': 34.46, 'humidity': 44.7}
+2026-09-28 18:52:44,123 | INFO | TX {'tempIntake': 21.64, 'tempExhaust': 33.44, 'humidity': 40.3}
+2026-09-28 18:53:14,325 | INFO | TX {'tempIntake': 21.78, 'tempExhaust': 34.96, 'humidity': 41.7}
+2026-09-28 18:53:44,525 | INFO | TX {'tempIntake': 21.66, 'tempExhaust': 35.57, 'humidity': 45.4}
+2026-09-28 18:54:14,727 | INFO | TX {'tempIntake': 21.93, 'tempExhaust': 35.57, 'humidity': 50.9}
+2026-09-28 18:54:44,930 | INFO | TX {'tempIntake': 21.84, 'tempExhaust': 32.2, 'humidity': 48.0}
+2026-09-28 18:55:15,124 | INFO | TX {'tempIntake': 21.83, 'tempExhaust': 35.81, 'humidity': 45.0}
+2026-09-28 18:55:45,330 | INFO | TX {'tempIntake': 21.71, 'tempExhaust': 32.26, 'humidity': 54.7}
+2026-09-28 18:56:15,519 | INFO | TX {'tempIntake': 21.83, 'tempExhaust': 31.87, 'humidity': 42.7}
+2026-09-28 18:56:45,721 | INFO | TX {'tempIntake': 21.92, 'tempExhaust': 34.88, 'humidity': 48.8}
+2026-09-28 18:57:15,920 | INFO | TX {'tempIntake': 21.62, 'tempExhaust': 31.69, 'humidity': 41.6}
+2026-09-28 18:57:46,170 | INFO | TX {'tempIntake': 21.45, 'tempExhaust': 34.12, 'humidity': 51.2}
+2026-09-28 18:58:16,370 | INFO | TX {'tempIntake': 21.82, 'tempExhaust': 34.44, 'humidity': 52.5}
+2026-09-28 18:58:46,596 | INFO | TX {'tempIntake': 21.4, 'tempExhaust': 32.73, 'humidity': 49.8}
+2026-09-28 18:59:16,791 | INFO | TX {'tempIntake': 21.3, 'tempExhaust': 33.3, 'humidity': 44.2}
+2026-09-28 18:59:46,976 | INFO | TX {'tempIntake': 21.41, 'tempExhaust': 32.07, 'humidity': 52.1}
+2026-09-28 19:00:17,185 | INFO | TX {'tempIntake': 21.54, 'tempExhaust': 33.14, 'humidity': 45.3}
+2026-09-28 19:00:47,390 | INFO | TX {'tempIntake': 21.67, 'tempExhaust': 32.43, 'humidity': 40.1}
+2026-09-28 19:01:17,635 | INFO | TX {'tempIntake': 21.66, 'tempExhaust': 34.11, 'humidity': 53.2}
+2026-09-28 19:01:47,828 | INFO | TX {'tempIntake': 21.91, 'tempExhaust': 33.56, 'humidity': 51.0}
+2026-09-28 19:02:18,024 | INFO | TX {'tempIntake': 21.9, 'tempExhaust': 34.82, 'humidity': 40.7}
+2026-09-28 19:02:48,241 | INFO | TX {'tempIntake': 21.97, 'tempExhaust': 35.57, 'humidity': 46.0}
+2026-09-28 19:03:18,445 | INFO | TX {'tempIntake': 21.96, 'tempExhaust': 34.98, 'humidity': 48.2}
+2026-09-28 19:03:48,676 | INFO | TX {'tempIntake': 22.13, 'tempExhaust': 33.44, 'humidity': 50.5}
+2026-09-28 19:04:18,877 | INFO | TX {'tempIntake': 22.12, 'tempExhaust': 33.22, 'humidity': 51.8}
+2026-09-28 19:04:49,064 | INFO | TX {'tempIntake': 22.36, 'tempExhaust': 33.71, 'humidity': 53.0}
+2026-09-28 19:05:19,256 | INFO | TX {'tempIntake': 22.07, 'tempExhaust': 33.56, 'humidity': 53.8}
+2026-09-28 19:05:49,445 | INFO | TX {'tempIntake': 22.15, 'tempExhaust': 35.85, 'humidity': 43.2}
+2026-09-28 19:06:19,668 | INFO | TX {'tempIntake': 22.16, 'tempExhaust': 34.2, 'humidity': 48.3}
+2026-09-28 19:06:49,866 | INFO | TX {'tempIntake': 21.89, 'tempExhaust': 32.31, 'humidity': 42.1}
+2026-09-28 19:07:20,211 | INFO | TX {'tempIntake': 21.8, 'tempExhaust': 32.16, 'humidity': 45.6}
+2026-09-28 19:07:50,408 | INFO | TX {'tempIntake': 21.95, 'tempExhaust': 34.67, 'humidity': 52.3}
+2026-09-28 19:08:20,646 | INFO | TX {'tempIntake': 21.92, 'tempExhaust': 35.41, 'humidity': 54.2}
+2026-09-28 19:08:50,860 | INFO | TX {'tempIntake': 21.62, 'tempExhaust': 33.53, 'humidity': 43.5}
+2026-09-28 19:09:21,138 | INFO | TX {'tempIntake': 21.6, 'tempExhaust': 33.35, 'humidity': 40.3}
+2026-09-28 19:09:51,334 | INFO | TX {'tempIntake': 21.33, 'tempExhaust': 32.41, 'humidity': 55.0}
+2026-09-28 19:10:21,532 | INFO | TX {'tempIntake': 21.31, 'tempExhaust': 31.4, 'humidity': 45.5}
+2026-09-28 19:10:51,750 | INFO | TX {'tempIntake': 21.2, 'tempExhaust': 33.87, 'humidity': 43.4}
+2026-09-28 19:11:21,945 | INFO | TX {'tempIntake': 21.29, 'tempExhaust': 31.61, 'humidity': 43.5}
+2026-09-28 19:11:52,137 | INFO | TX {'tempIntake': 20.96, 'tempExhaust': 34.61, 'humidity': 53.0}
+2026-09-28 19:12:22,329 | INFO | TX {'tempIntake': 20.98, 'tempExhaust': 34.75, 'humidity': 52.5}
+2026-09-28 19:12:52,518 | INFO | TX {'tempIntake': 21.35, 'tempExhaust': 35.31, 'humidity': 41.4}
+2026-09-28 19:13:22,708 | INFO | TX {'tempIntake': 21.32, 'tempExhaust': 33.88, 'humidity': 48.0}
+2026-09-28 19:13:52,900 | INFO | TX {'tempIntake': 21.33, 'tempExhaust': 34.25, 'humidity': 44.5}
+2026-09-28 19:14:23,108 | INFO | TX {'tempIntake': 21.4, 'tempExhaust': 33.68, 'humidity': 48.4}
+2026-09-28 19:14:53,299 | INFO | TX {'tempIntake': 21.82, 'tempExhaust': 35.76, 'humidity': 51.3}
+2026-09-28 19:15:23,493 | INFO | TX {'tempIntake': 21.88, 'tempExhaust': 32.42, 'humidity': 49.5}
+2026-09-28 19:15:53,694 | INFO | TX {'tempIntake': 21.96, 'tempExhaust': 34.29, 'humidity': 50.1}
+2026-09-28 19:16:23,892 | INFO | TX {'tempIntake': 22.09, 'tempExhaust': 32.58, 'humidity': 42.0}
+2026-09-28 19:16:54,091 | INFO | TX {'tempIntake': 22.04, 'tempExhaust': 35.05, 'humidity': 54.7}
+2026-09-28 19:17:24,280 | INFO | TX {'tempIntake': 22.03, 'tempExhaust': 33.03, 'humidity': 43.5}
+2026-09-28 19:17:54,468 | INFO | TX {'tempIntake': 21.82, 'tempExhaust': 35.57, 'humidity': 49.1}
+2026-09-28 19:18:24,662 | INFO | TX {'tempIntake': 21.89, 'tempExhaust': 34.55, 'humidity': 49.9}
+2026-09-28 19:18:54,852 | INFO | TX {'tempIntake': 21.96, 'tempExhaust': 33.38, 'humidity': 43.6}
+2026-09-28 19:19:25,082 | INFO | TX {'tempIntake': 21.85, 'tempExhaust': 32.73, 'humidity': 54.9}
+2026-09-28 19:19:55,281 | INFO | TX {'tempIntake': 21.81, 'tempExhaust': 35.73, 'humidity': 48.8}
+2026-09-28 19:20:25,488 | INFO | TX {'tempIntake': 21.99, 'tempExhaust': 32.85, 'humidity': 43.1}
+2026-09-28 19:20:55,676 | INFO | TX {'tempIntake': 21.8, 'tempExhaust': 35.27, 'humidity': 40.8}
+2026-09-28 19:21:25,871 | INFO | TX {'tempIntake': 21.92, 'tempExhaust': 34.91, 'humidity': 46.4}
+2026-09-28 19:21:56,068 | INFO | TX {'tempIntake': 22.29, 'tempExhaust': 32.5, 'humidity': 47.1}
+2026-09-28 19:22:26,297 | INFO | TX {'tempIntake': 22.24, 'tempExhaust': 33.47, 'humidity': 50.3}
+2026-09-28 19:22:56,500 | INFO | TX {'tempIntake': 22.13, 'tempExhaust': 33.46, 'humidity': 50.2}
+2026-09-28 19:23:26,697 | INFO | TX {'tempIntake': 22.03, 'tempExhaust': 32.59, 'humidity': 49.9}
+2026-09-28 19:23:56,886 | INFO | TX {'tempIntake': 22.2, 'tempExhaust': 34.04, 'humidity': 47.1}
+2026-09-28 19:24:27,080 | INFO | TX {'tempIntake': 22.17, 'tempExhaust': 32.33, 'humidity': 53.5}
+2026-09-28 19:24:57,273 | INFO | TX {'tempIntake': 22.17, 'tempExhaust': 32.51, 'humidity': 49.5}
+2026-09-28 19:25:27,462 | INFO | TX {'tempIntake': 21.93, 'tempExhaust': 33.32, 'humidity': 51.2}
+2026-09-28 19:25:57,651 | INFO | TX {'tempIntake': 22.08, 'tempExhaust': 34.84, 'humidity': 46.5}
+2026-09-28 19:26:27,846 | INFO | TX {'tempIntake': 22.28, 'tempExhaust': 34.64, 'humidity': 51.0}
+2026-09-28 19:26:58,048 | INFO | TX {'tempIntake': 22.32, 'tempExhaust': 35.25, 'humidity': 51.3}
+2026-09-28 19:27:28,250 | INFO | TX {'tempIntake': 22.47, 'tempExhaust': 36.44, 'humidity': 49.5}
+2026-09-28 19:27:58,453 | INFO | TX {'tempIntake': 22.89, 'tempExhaust': 34.64, 'humidity': 47.8}
+2026-09-28 19:28:28,658 | INFO | TX {'tempIntake': 23.06, 'tempExhaust': 33.44, 'humidity': 49.6}
+2026-09-28 19:28:58,857 | INFO | TX {'tempIntake': 22.87, 'tempExhaust': 33.52, 'humidity': 54.6}
+2026-09-28 19:29:29,134 | INFO | TX {'tempIntake': 22.49, 'tempExhaust': 34.18, 'humidity': 41.6}
+2026-09-28 19:29:59,335 | INFO | TX {'tempIntake': 22.73, 'tempExhaust': 32.78, 'humidity': 43.6}
+2026-09-28 19:30:29,550 | INFO | TX {'tempIntake': 22.74, 'tempExhaust': 32.79, 'humidity': 41.6}
+2026-09-28 19:30:59,740 | INFO | TX {'tempIntake': 22.34, 'tempExhaust': 34.43, 'humidity': 45.2}
+2026-09-28 19:31:29,933 | INFO | TX {'tempIntake': 22.66, 'tempExhaust': 32.79, 'humidity': 45.3}
+2026-09-28 19:32:00,129 | INFO | TX {'tempIntake': 22.19, 'tempExhaust': 32.27, 'humidity': 45.8}
+2026-09-28 19:32:30,315 | INFO | TX {'tempIntake': 22.21, 'tempExhaust': 33.9, 'humidity': 51.0}
+2026-09-28 19:33:00,503 | INFO | TX {'tempIntake': 22.39, 'tempExhaust': 32.44, 'humidity': 50.4}
+2026-09-28 19:33:30,713 | INFO | TX {'tempIntake': 22.42, 'tempExhaust': 32.52, 'humidity': 48.7}
+2026-09-28 19:34:00,909 | INFO | TX {'tempIntake': 22.17, 'tempExhaust': 35.01, 'humidity': 50.7}
+2026-09-28 19:34:31,101 | INFO | TX {'tempIntake': 22.35, 'tempExhaust': 34.5, 'humidity': 54.7}
+2026-09-28 19:35:01,328 | INFO | TX {'tempIntake': 22.25, 'tempExhaust': 32.47, 'humidity': 54.1}
+2026-09-28 19:35:31,522 | INFO | TX {'tempIntake': 22.33, 'tempExhaust': 35.88, 'humidity': 46.5}
+2026-09-28 19:36:01,728 | INFO | TX {'tempIntake': 22.34, 'tempExhaust': 35.07, 'humidity': 43.7}
+2026-09-28 19:36:31,937 | INFO | TX {'tempIntake': 22.21, 'tempExhaust': 33.46, 'humidity': 48.5}
+2026-09-28 19:37:02,144 | INFO | TX {'tempIntake': 22.26, 'tempExhaust': 35.57, 'humidity': 44.0}
+2026-09-28 19:37:32,394 | INFO | TX {'tempIntake': 22.28, 'tempExhaust': 35.01, 'humidity': 46.7}
+2026-09-28 19:38:02,591 | INFO | TX {'tempIntake': 22.08, 'tempExhaust': 34.07, 'humidity': 45.1}
+2026-09-28 19:38:32,781 | INFO | TX {'tempIntake': 21.95, 'tempExhaust': 32.06, 'humidity': 52.6}
+2026-09-28 19:39:02,971 | INFO | TX {'tempIntake': 21.97, 'tempExhaust': 34.34, 'humidity': 51.9}
+2026-09-28 19:39:33,161 | INFO | TX {'tempIntake': 22.27, 'tempExhaust': 32.39, 'humidity': 53.0}
+2026-09-28 19:40:03,353 | INFO | TX {'tempIntake': 22.43, 'tempExhaust': 33.02, 'humidity': 52.7}
+2026-09-28 19:40:33,554 | INFO | TX {'tempIntake': 22.32, 'tempExhaust': 36.15, 'humidity': 45.2}
+2026-09-28 19:41:03,754 | INFO | TX {'tempIntake': 22.24, 'tempExhaust': 35.65, 'humidity': 41.0}
+2026-09-28 19:41:33,947 | INFO | TX {'tempIntake': 22.29, 'tempExhaust': 35.68, 'humidity': 40.6}
+2026-09-28 19:42:04,127 | INFO | TX {'tempIntake': 22.17, 'tempExhaust': 36.0, 'humidity': 55.0}
+2026-09-28 19:42:34,322 | INFO | TX {'tempIntake': 22.18, 'tempExhaust': 34.85, 'humidity': 48.7}
+2026-09-28 19:43:04,530 | INFO | TX {'tempIntake': 22.32, 'tempExhaust': 36.31, 'humidity': 52.9}
+2026-09-28 19:43:34,733 | INFO | TX {'tempIntake': 21.98, 'tempExhaust': 35.38, 'humidity': 49.4}
+2026-09-28 19:44:04,925 | INFO | TX {'tempIntake': 21.96, 'tempExhaust': 33.97, 'humidity': 40.3}
+2026-09-28 19:44:35,113 | INFO | TX {'tempIntake': 21.98, 'tempExhaust': 34.61, 'humidity': 50.5}
+2026-09-28 19:45:05,323 | INFO | TX {'tempIntake': 22.35, 'tempExhaust': 34.52, 'humidity': 49.9}
+2026-09-28 19:45:35,518 | INFO | TX {'tempIntake': 22.38, 'tempExhaust': 34.71, 'humidity': 48.3}
+2026-09-28 19:46:05,725 | INFO | TX {'tempIntake': 22.3, 'tempExhaust': 33.09, 'humidity': 53.7}
+2026-09-28 19:46:35,927 | INFO | TX {'tempIntake': 22.33, 'tempExhaust': 34.96, 'humidity': 54.3}
+2026-09-28 19:47:06,133 | INFO | TX {'tempIntake': 22.4, 'tempExhaust': 36.13, 'humidity': 44.6}
+2026-09-28 19:47:36,339 | INFO | TX {'tempIntake': 22.37, 'tempExhaust': 35.8, 'humidity': 48.6}
+2026-09-28 19:47:49,195 | INFO | Estado de conexion: DISCONNECTED
+2026-09-28 19:47:49,952 | INFO | Estado de conexion: CONNECTED
+2026-09-28 19:48:06,538 | INFO | TX {'tempIntake': 22.54, 'tempExhaust': 33.79, 'humidity': 44.3}
+2026-09-28 19:48:36,738 | INFO | TX {'tempIntake': 22.88, 'tempExhaust': 36.02, 'humidity': 46.0}
+2026-09-28 19:49:06,946 | INFO | TX {'tempIntake': 22.79, 'tempExhaust': 32.88, 'humidity': 50.5}
+2026-09-28 19:49:37,146 | INFO | TX {'tempIntake': 22.52, 'tempExhaust': 34.71, 'humidity': 47.8}
+2026-09-28 19:50:07,344 | INFO | TX {'tempIntake': 22.3, 'tempExhaust': 32.39, 'humidity': 50.8}
+2026-09-28 19:50:37,536 | INFO | TX {'tempIntake': 22.51, 'tempExhaust': 34.04, 'humidity': 50.3}
+2026-09-28 19:51:07,741 | INFO | TX {'tempIntake': 22.64, 'tempExhaust': 32.78, 'humidity': 48.9}
+2026-09-28 19:51:37,944 | INFO | TX {'tempIntake': 22.89, 'tempExhaust': 33.53, 'humidity': 43.9}
+2026-09-28 19:52:08,139 | INFO | TX {'tempIntake': 22.46, 'tempExhaust': 34.37, 'humidity': 48.6}
+2026-09-28 19:52:38,342 | INFO | TX {'tempIntake': 22.56, 'tempExhaust': 35.71, 'humidity': 46.9}
+2026-09-28 19:53:08,532 | INFO | TX {'tempIntake': 22.42, 'tempExhaust': 33.82, 'humidity': 43.6}
+2026-09-28 19:53:38,722 | INFO | TX {'tempIntake': 22.73, 'tempExhaust': 36.09, 'humidity': 47.5}
+2026-09-28 19:54:08,932 | INFO | TX {'tempIntake': 22.46, 'tempExhaust': 36.25, 'humidity': 44.9}
+2026-09-28 19:54:39,138 | INFO | TX {'tempIntake': 22.73, 'tempExhaust': 35.46, 'humidity': 54.4}
+2026-09-28 19:55:09,355 | INFO | TX {'tempIntake': 22.41, 'tempExhaust': 32.56, 'humidity': 44.2}
+2026-09-28 19:55:39,563 | INFO | TX {'tempIntake': 22.53, 'tempExhaust': 32.62, 'humidity': 42.0}
+2026-09-28 19:56:09,764 | INFO | TX {'tempIntake': 22.38, 'tempExhaust': 32.81, 'humidity': 55.0}
+2026-09-28 19:56:39,962 | INFO | TX {'tempIntake': 22.47, 'tempExhaust': 35.76, 'humidity': 49.0}
+2026-09-28 19:57:10,165 | INFO | TX {'tempIntake': 22.55, 'tempExhaust': 34.69, 'humidity': 46.9}
+2026-09-28 19:57:40,367 | INFO | TX {'tempIntake': 22.7, 'tempExhaust': 32.85, 'humidity': 47.3}
+2026-09-28 19:58:10,561 | INFO | TX {'tempIntake': 22.39, 'tempExhaust': 36.19, 'humidity': 45.9}
+2026-09-28 19:58:40,766 | INFO | TX {'tempIntake': 22.52, 'tempExhaust': 33.4, 'humidity': 42.5}
+2026-09-28 19:59:10,964 | INFO | TX {'tempIntake': 22.7, 'tempExhaust': 36.32, 'humidity': 46.9}
+2026-09-28 19:59:41,154 | INFO | TX {'tempIntake': 22.49, 'tempExhaust': 34.62, 'humidity': 46.8}
+2026-09-28 20:00:11,364 | INFO | TX {'tempIntake': 22.47, 'tempExhaust': 35.08, 'humidity': 40.7}
+2026-09-28 20:00:41,568 | INFO | TX {'tempIntake': 22.61, 'tempExhaust': 35.43, 'humidity': 53.4}
+2026-09-28 20:01:11,767 | INFO | TX {'tempIntake': 22.74, 'tempExhaust': 33.95, 'humidity': 47.4}
+2026-09-28 20:01:41,966 | INFO | TX {'tempIntake': 22.45, 'tempExhaust': 36.2, 'humidity': 51.8}
+2026-09-28 20:02:12,171 | INFO | TX {'tempIntake': 22.39, 'tempExhaust': 33.45, 'humidity': 45.0}
+2026-09-28 20:02:42,360 | INFO | TX {'tempIntake': 22.33, 'tempExhaust': 35.29, 'humidity': 40.5}
+2026-09-28 20:03:12,565 | INFO | TX {'tempIntake': 22.06, 'tempExhaust': 34.1, 'humidity': 54.4}
+2026-09-28 20:03:42,773 | INFO | TX {'tempIntake': 22.23, 'tempExhaust': 33.21, 'humidity': 47.4}
+2026-09-28 20:04:12,977 | INFO | TX {'tempIntake': 22.2, 'tempExhaust': 32.24, 'humidity': 44.0}
+2026-09-28 20:04:43,189 | INFO | TX {'tempIntake': 21.97, 'tempExhaust': 34.49, 'humidity': 43.2}
+2026-09-28 20:05:13,393 | INFO | TX {'tempIntake': 21.89, 'tempExhaust': 35.61, 'humidity': 50.6}
+2026-09-28 20:05:43,408 | INFO | Evento simulado: punto caliente en el rack (10 min)
+2026-09-28 20:05:43,596 | INFO | TX {'tempIntake': 23.15, 'tempExhaust': 36.55, 'humidity': 51.4}
+2026-09-28 20:06:13,802 | INFO | TX {'tempIntake': 24.31, 'tempExhaust': 36.29, 'humidity': 41.1}
+2026-09-28 20:06:43,997 | INFO | TX {'tempIntake': 24.94, 'tempExhaust': 36.51, 'humidity': 51.1}
+2026-09-28 20:07:14,197 | INFO | TX {'tempIntake': 25.18, 'tempExhaust': 37.92, 'humidity': 51.6}
+2026-09-28 20:07:44,398 | INFO | TX {'tempIntake': 25.91, 'tempExhaust': 36.77, 'humidity': 40.9}
+2026-09-28 20:08:14,602 | INFO | TX {'tempIntake': 26.25, 'tempExhaust': 39.34, 'humidity': 46.2}
+2026-09-28 20:08:44,841 | INFO | TX {'tempIntake': 26.23, 'tempExhaust': 36.85, 'humidity': 53.6}
+2026-09-28 20:09:15,045 | INFO | TX {'tempIntake': 26.89, 'tempExhaust': 37.05, 'humidity': 52.4}
+2026-09-28 20:09:45,302 | INFO | TX {'tempIntake': 27.02, 'tempExhaust': 37.66, 'humidity': 40.8} ALARMA: intake sobre umbral
+2026-09-28 20:10:15,508 | INFO | TX {'tempIntake': 27.45, 'tempExhaust': 40.42, 'humidity': 51.7} ALARMA: intake sobre umbral
+2026-09-28 20:10:45,701 | INFO | TX {'tempIntake': 27.31, 'tempExhaust': 39.06, 'humidity': 40.4} ALARMA: intake sobre umbral
+2026-09-28 20:11:15,945 | INFO | TX {'tempIntake': 27.47, 'tempExhaust': 40.32, 'humidity': 52.1} ALARMA: intake sobre umbral
+2026-09-28 20:11:46,153 | INFO | TX {'tempIntake': 27.8, 'tempExhaust': 39.09, 'humidity': 43.0} ALARMA: intake sobre umbral
+2026-09-28 20:12:16,354 | INFO | TX {'tempIntake': 27.94, 'tempExhaust': 39.62, 'humidity': 52.3} ALARMA: intake sobre umbral
+2026-09-28 20:12:46,578 | INFO | TX {'tempIntake': 28.0, 'tempExhaust': 41.8, 'humidity': 47.4} ALARMA: intake sobre umbral
+2026-09-28 20:13:16,775 | INFO | TX {'tempIntake': 28.25, 'tempExhaust': 39.38, 'humidity': 51.9} ALARMA: intake sobre umbral
+2026-09-28 20:13:46,982 | INFO | TX {'tempIntake': 28.34, 'tempExhaust': 38.82, 'humidity': 49.8} ALARMA: intake sobre umbral
+2026-09-28 20:14:17,187 | INFO | TX {'tempIntake': 28.27, 'tempExhaust': 39.97, 'humidity': 40.5} ALARMA: intake sobre umbral
+2026-09-28 20:14:47,390 | INFO | TX {'tempIntake': 28.45, 'tempExhaust': 41.92, 'humidity': 45.5} ALARMA: intake sobre umbral
+2026-09-28 20:15:17,586 | INFO | TX {'tempIntake': 28.11, 'tempExhaust': 42.03, 'humidity': 53.2} ALARMA: intake sobre umbral
+2026-09-28 20:15:47,777 | INFO | TX {'tempIntake': 27.28, 'tempExhaust': 40.15, 'humidity': 46.8} ALARMA: intake sobre umbral
+2026-09-28 20:16:17,968 | INFO | TX {'tempIntake': 26.57, 'tempExhaust': 37.89, 'humidity': 46.0}
+2026-09-28 20:16:48,172 | INFO | TX {'tempIntake': 25.76, 'tempExhaust': 37.96, 'humidity': 54.9}
+2026-09-28 20:17:18,379 | INFO | TX {'tempIntake': 24.95, 'tempExhaust': 35.08, 'humidity': 45.3}
+2026-09-28 20:17:48,577 | INFO | TX {'tempIntake': 24.72, 'tempExhaust': 38.68, 'humidity': 44.5}
+2026-09-28 20:18:18,782 | INFO | TX {'tempIntake': 24.35, 'tempExhaust': 37.23, 'humidity': 41.5}
+2026-09-28 20:18:48,968 | INFO | TX {'tempIntake': 23.85, 'tempExhaust': 35.05, 'humidity': 46.4}
+2026-09-28 20:19:19,161 | INFO | TX {'tempIntake': 23.52, 'tempExhaust': 36.84, 'humidity': 46.7}
+2026-09-28 20:19:49,363 | INFO | TX {'tempIntake': 23.05, 'tempExhaust': 36.19, 'humidity': 51.3}
+2026-09-28 20:20:19,564 | INFO | TX {'tempIntake': 22.85, 'tempExhaust': 36.43, 'humidity': 43.4}
+2026-09-28 20:20:49,761 | INFO | TX {'tempIntake': 22.47, 'tempExhaust': 33.83, 'humidity': 49.5}
+2026-09-28 20:21:19,959 | INFO | TX {'tempIntake': 22.53, 'tempExhaust': 35.01, 'humidity': 53.3}
+2026-09-28 20:21:50,162 | INFO | TX {'tempIntake': 22.65, 'tempExhaust': 33.07, 'humidity': 48.1}
+2026-09-28 20:22:20,368 | INFO | TX {'tempIntake': 22.45, 'tempExhaust': 36.11, 'humidity': 53.2}
+2026-09-28 20:22:50,569 | INFO | TX {'tempIntake': 22.3, 'tempExhaust': 36.02, 'humidity': 52.0}
+2026-09-28 20:23:20,797 | INFO | TX {'tempIntake': 22.23, 'tempExhaust': 35.87, 'humidity': 42.6}
+2026-09-28 20:23:50,989 | INFO | TX {'tempIntake': 22.13, 'tempExhaust': 35.11, 'humidity': 47.0}
+2026-09-28 20:24:21,192 | INFO | TX {'tempIntake': 22.29, 'tempExhaust': 36.29, 'humidity': 40.2}
+2026-09-28 20:24:51,392 | INFO | TX {'tempIntake': 22.3, 'tempExhaust': 33.82, 'humidity': 51.7}
+2026-09-28 20:25:21,597 | INFO | TX {'tempIntake': 22.13, 'tempExhaust': 36.04, 'humidity': 41.8}
+2026-09-28 20:25:51,797 | INFO | TX {'tempIntake': 22.33, 'tempExhaust': 32.63, 'humidity': 41.3}
+2026-09-28 20:26:22,005 | INFO | TX {'tempIntake': 22.1, 'tempExhaust': 35.58, 'humidity': 54.3}
+2026-09-28 20:26:52,213 | INFO | TX {'tempIntake': 21.86, 'tempExhaust': 34.43, 'humidity': 44.4}
+2026-09-28 20:27:22,416 | INFO | TX {'tempIntake': 21.93, 'tempExhaust': 33.96, 'humidity': 43.2}
+2026-09-28 20:27:52,605 | INFO | TX {'tempIntake': 22.2, 'tempExhaust': 34.29, 'humidity': 47.1}
+2026-09-28 20:28:22,797 | INFO | TX {'tempIntake': 22.18, 'tempExhaust': 35.08, 'humidity': 50.1}
+2026-09-28 20:28:53,054 | INFO | TX {'tempIntake': 22.31, 'tempExhaust': 34.29, 'humidity': 47.8}
+2026-09-28 20:29:23,258 | INFO | TX {'tempIntake': 22.3, 'tempExhaust': 32.61, 'humidity': 44.5}
+2026-09-28 20:29:53,468 | INFO | TX {'tempIntake': 22.21, 'tempExhaust': 34.39, 'humidity': 40.3}
+2026-09-28 20:30:23,676 | INFO | TX {'tempIntake': 22.39, 'tempExhaust': 32.86, 'humidity': 46.5}
+2026-09-28 20:30:53,878 | INFO | TX {'tempIntake': 22.32, 'tempExhaust': 33.83, 'humidity': 52.9}
+2026-09-28 20:31:24,083 | INFO | TX {'tempIntake': 22.3, 'tempExhaust': 32.8, 'humidity': 50.4}
+2026-09-28 20:31:54,284 | INFO | TX {'tempIntake': 22.17, 'tempExhaust': 35.68, 'humidity': 41.4}
+2026-09-28 20:32:24,485 | INFO | TX {'tempIntake': 22.32, 'tempExhaust': 32.98, 'humidity': 42.7}
+2026-09-28 20:32:54,710 | INFO | TX {'tempIntake': 22.5, 'tempExhaust': 33.4, 'humidity': 50.7}
+2026-09-28 20:33:24,913 | INFO | TX {'tempIntake': 22.24, 'tempExhaust': 33.39, 'humidity': 50.3}
+2026-09-28 20:33:55,135 | INFO | TX {'tempIntake': 22.17, 'tempExhaust': 33.03, 'humidity': 48.3}
+2026-09-28 20:34:25,369 | INFO | TX {'tempIntake': 21.83, 'tempExhaust': 32.2, 'humidity': 54.3}
+2026-09-28 20:34:55,633 | INFO | TX {'tempIntake': 21.58, 'tempExhaust': 33.46, 'humidity': 47.7}
+2026-09-28 20:35:25,861 | INFO | TX {'tempIntake': 21.74, 'tempExhaust': 33.07, 'humidity': 49.0}
+2026-09-28 20:35:56,054 | INFO | TX {'tempIntake': 22.0, 'tempExhaust': 32.18, 'humidity': 48.1}
+2026-09-28 20:36:26,258 | INFO | TX {'tempIntake': 21.99, 'tempExhaust': 33.27, 'humidity': 54.3}
+2026-09-28 20:36:56,463 | INFO | TX {'tempIntake': 21.92, 'tempExhaust': 34.1, 'humidity': 54.0}
+2026-09-28 20:37:26,672 | INFO | TX {'tempIntake': 21.9, 'tempExhaust': 32.21, 'humidity': 54.4}
+2026-09-28 20:37:56,869 | INFO | TX {'tempIntake': 22.02, 'tempExhaust': 32.72, 'humidity': 54.2}
+2026-09-28 20:38:27,078 | INFO | TX {'tempIntake': 21.75, 'tempExhaust': 32.2, 'humidity': 41.6}
+2026-09-28 20:38:57,285 | INFO | TX {'tempIntake': 22.01, 'tempExhaust': 34.3, 'humidity': 46.3}
+2026-09-28 20:39:27,493 | INFO | TX {'tempIntake': 21.79, 'tempExhaust': 32.03, 'humidity': 48.2}
+2026-09-28 20:39:57,696 | INFO | TX {'tempIntake': 21.12, 'tempExhaust': 34.02, 'humidity': 46.5}
+2026-09-28 20:40:27,897 | INFO | TX {'tempIntake': 21.36, 'tempExhaust': 35.24, 'humidity': 42.2}
+2026-09-28 20:40:58,104 | INFO | TX {'tempIntake': 21.53, 'tempExhaust': 32.91, 'humidity': 48.0}
+2026-09-28 20:41:28,321 | INFO | TX {'tempIntake': 21.8, 'tempExhaust': 32.75, 'humidity': 46.2}
+2026-09-28 20:41:58,529 | INFO | TX {'tempIntake': 22.03, 'tempExhaust': 32.41, 'humidity': 47.6}
+2026-09-28 20:42:28,731 | INFO | TX {'tempIntake': 21.84, 'tempExhaust': 32.62, 'humidity': 52.7}
+2026-09-28 20:42:58,940 | INFO | TX {'tempIntake': 22.0, 'tempExhaust': 34.64, 'humidity': 51.7}
+2026-09-28 20:43:29,146 | INFO | TX {'tempIntake': 21.89, 'tempExhaust': 34.82, 'humidity': 43.8}
+2026-09-28 20:43:59,348 | INFO | TX {'tempIntake': 21.55, 'tempExhaust': 35.21, 'humidity': 46.3}
+2026-09-28 20:44:29,562 | INFO | TX {'tempIntake': 21.31, 'tempExhaust': 34.23, 'humidity': 49.1}
+2026-09-28 20:44:59,767 | INFO | TX {'tempIntake': 21.78, 'tempExhaust': 32.66, 'humidity': 46.5}
+2026-09-28 20:45:29,960 | INFO | TX {'tempIntake': 22.06, 'tempExhaust': 35.51, 'humidity': 54.3}
+2026-09-28 20:45:49,641 | INFO | Estado de conexion: DISCONNECTED
+2026-09-28 20:45:50,369 | INFO | Estado de conexion: CONNECTED
+2026-09-28 20:46:00,172 | INFO | TX {'tempIntake': 22.19, 'tempExhaust': 32.44, 'humidity': 51.3}
+2026-09-28 20:46:30,391 | INFO | TX {'tempIntake': 22.31, 'tempExhaust': 34.64, 'humidity': 44.7}
+2026-09-28 20:47:00,602 | INFO | TX {'tempIntake': 22.09, 'tempExhaust': 33.83, 'humidity': 42.2}
+2026-09-28 20:47:30,838 | INFO | TX {'tempIntake': 22.2, 'tempExhaust': 32.8, 'humidity': 47.5}
+2026-09-28 20:48:01,047 | INFO | TX {'tempIntake': 22.07, 'tempExhaust': 33.99, 'humidity': 45.2}
+2026-09-28 20:48:31,256 | INFO | TX {'tempIntake': 21.9, 'tempExhaust': 33.05, 'humidity': 50.2}
+2026-09-28 20:49:01,488 | INFO | TX {'tempIntake': 21.96, 'tempExhaust': 35.91, 'humidity': 51.8}
+2026-09-28 20:49:31,742 | INFO | TX {'tempIntake': 21.83, 'tempExhaust': 35.46, 'humidity': 51.4}
+2026-09-28 20:50:01,944 | INFO | TX {'tempIntake': 21.92, 'tempExhaust': 31.94, 'humidity': 50.0}
+2026-09-28 20:50:32,163 | INFO | TX {'tempIntake': 21.9, 'tempExhaust': 34.4, 'humidity': 41.1}
+2026-09-28 20:51:02,363 | INFO | TX {'tempIntake': 21.77, 'tempExhaust': 32.11, 'humidity': 44.8}
+2026-09-28 20:51:32,562 | INFO | TX {'tempIntake': 21.36, 'tempExhaust': 31.8, 'humidity': 42.1}
+2026-09-28 20:52:02,795 | INFO | TX {'tempIntake': 21.37, 'tempExhaust': 33.38, 'humidity': 53.8}
+2026-09-28 20:52:33,011 | INFO | TX {'tempIntake': 21.51, 'tempExhaust': 33.45, 'humidity': 44.5}
+2026-09-28 20:53:03,217 | INFO | TX {'tempIntake': 21.53, 'tempExhaust': 34.68, 'humidity': 47.4}
+2026-09-28 20:53:33,433 | INFO | TX {'tempIntake': 22.1, 'tempExhaust': 33.48, 'humidity': 50.4}
+2026-09-28 20:54:03,679 | INFO | TX {'tempIntake': 22.09, 'tempExhaust': 35.01, 'humidity': 49.5}

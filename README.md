@@ -49,7 +49,9 @@ Siete cadencias distintas (15 s, 30 s, 60 s, 5 min, 10 min, por evento y la del 
 | R7 Puerta forzada | accessEvent = PUERTA_FORZADA | Ninguna |
 | R8 Aire exterior contaminado | aqi mayor que 100 | Ninguna |
 
-R1 a R7 se dispararon con correo durante la captura (ver `evidencias/capturas/`). R8 depende del aire real de Bucaramanga, que se mantuvo en AQI 44–71.
+Las 8 reglas se dispararon con correo durante la captura (ver `evidencias/capturas/`). R1–R7 con datos de los días 1 a 3; R8 depende del aire real de Bucaramanga (AQI 44–71 los cuatro días), así que el Día 4 se validó con un umbral de prueba temporal (AQI mayor que 40, restaurado a 100 después).
+
+El Día 4 también se probaron la *property* escribible `alarmThreshold` (27 → 22 → 27 °C) y el comando `setFan` sobre el Rack B en Python, igual que en el Rack A de Wokwi.
 
 ## Cómo ejecutar
 
@@ -65,7 +67,7 @@ cd node_pdu;   npm install; node pdu_simulada.js   # y en otra consola: node pue
 cd node_acceso; npm install; node acceso_pnp.js     # teclas: a = autorizado, d = denegado, f = forzada
 ```
 
-**Wokwi:** crear un proyecto ESP32, copiar `sketch.ino`, `diagram.json`, `libraries.txt`, `azure_ca.h` y `secrets.example.h` (renombrado a `secrets.h`, con la clave y `IOT_HUB_HOST`).
+**Wokwi:** proyecto público (sin clave): https://wokwi.com/projects/476449058799578113 · Para replicarlo: crear un proyecto ESP32, copiar `sketch.ino`, `diagram.json`, `libraries.txt`, `azure_ca.h` y `secrets.example.h` (renombrado a `secrets.h`, con la clave y `IOT_HUB_HOST`).
 
 **Toda la flota con un comando:** `control_flota/INICIAR_CAPTURA.bat` (arranca los 8 dispositivos locales, abre Wokwi y detiene todo a las 4 h) y `DETENER_CAPTURA.bat`. Cada ventana queda registrada en `registro_capturas.csv`.
 
